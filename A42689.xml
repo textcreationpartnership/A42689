@@ -1,0 +1,546 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The scheme or diagramme adjusted for future use in a larger prodromus ere long to be published, and whereof this is then to be a part.</title>
+            <author>Gibbon, Nicholas, 1605-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42689</idno>
+            <idno type="STC">Wing G655</idno>
+            <idno type="STC">ESTC R39570</idno>
+            <idno type="EEBO-CITATION">18432014</idno>
+            <idno type="OCLC">ocm 18432014</idno>
+            <idno type="VID">107652</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107652)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1632:77)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The scheme or diagramme adjusted for future use in a larger prodromus ere long to be published, and whereof this is then to be a part.</title>
+                  <author>Gibbon, Nicholas, 1605-1697.</author>
+               </titleStmt>
+               <extent>30, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"At present printed for private hands."</note>
+                  <note>Signed at end: Nicholas Gibbon.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Imperfect: cropped with print show-through and slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:107652:1" rendition="simple:additions"/>
+            <head>THE SCHEME OR DIAGRAMME Adjuſted for Future uſe, in a larger Prodromus ere long to be publiſhed; and whereof this is then to be a Part. <hi>At preſent Printed for private Hands.</hi>
+            </head>
+            <head type="sub">A CONCATENATION of the <hi>Series of the Heads of the Grounds of the Scripture</hi> repre<g ref="char:EOLhyphen"/>ſented in this ſecond Syſteme by Scheme or Diagramme.</head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">A</seg>Nd firſt of that great and prime <hi>Hyperphyſical</hi> (that is) ſupernaturall and ſpiritual Ground GOD, demonſtrating Himſelf to us by His firſt <hi>Outgoings</hi> and after <hi>Condeſcenſions,</hi> neceſſarily to be thus in Concatenation con<g ref="char:EOLhyphen"/>ſidered.</p>
+               <p n="1">1. <hi>God</hi> in Unitie of Eſſence, One GOD; The <hi>Abyſſe</hi> Unfathomable.</p>
+               <p n="2">2. That Eſſence <hi>ſubſiſtentiated,</hi> (i.) ſpecificated in <hi>Subſistencies,</hi> in order to Creation <hi>Emanant.</hi>
+               </p>
+               <pb n="2" facs="tcp:107652:2" rendition="simple:additions"/>
+               <p>CREATOR, WORD, SPIRIT.</p>
+               <p>Three Subſiſtencies For Nature, Grace, Glory.</p>
+               <p n="3">3. Thoſe Subſiſtencies (ſo ſpecificated) in their Actual <hi>Out<g ref="char:EOLhyphen"/>goings</hi> exerting <hi>(i.)</hi> putting themſelves forth by their ſingular <hi>Energies,</hi> the Energie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of each reſpectively.</p>
+               <p n="4">4. Thoſe Energies become in the Subject (the Creature) <hi>Operations:</hi> This in the <hi>Creation ſimply conſidered,</hi> the firſt Crea<g ref="char:EOLhyphen"/>tion, the Creation of the Firſt and Second Race of Intel<g ref="char:EOLhyphen"/>lectuals.</p>
+               <p n="5">5. Thoſe Energies for their Operations on the Creature <hi>in the ſecond Creation</hi> (that is, the Reſtauration of the ſecond Race in their Nature laps't) concentred in the <hi>Perſon of a Medi<g ref="char:EOLhyphen"/>ator: The prime ſpecificate Subject of that Work,</hi> Our Lord Jeſus Chriſt; <hi>the Beginning of the Creation of God,</hi> The new Crea<g ref="char:EOLhyphen"/>tion.</p>
+               <p>And then the Eſſence in the Subſiſtencies worketh by their Energies concentred in that Perſon of the Mediator, through Him and by Him tranſmitted <hi>unto Individuals in lapſe, The ſecond ſpecificate Subject of that ſecond Work;</hi> that, Per<g ref="char:EOLhyphen"/>ſons pertakers of that decayed Nature from the old <hi>Adam,</hi> might by thoſe operations for Reſtauration, through and from Him be made and become New Creatures.</p>
+               <p>Whence,
+<list>
+                     <item>The <hi>Eſſence</hi> is not the <hi>Subſiſtency:</hi>
+                     </item>
+                     <item>The <hi>Subſiſtency</hi> is not the <hi>Energie:</hi>
+                     </item>
+                     <item>The <hi>Energie</hi> is not the <hi>Operation:</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>And yet,
+<list>
+                     <item>The <hi>Eſſence</hi> is virtually the <hi>Subſistency;</hi>
+                     </item>
+                     <item>The <hi>Subſiſtency</hi> is virtually the <hi>Energie;</hi>
+                     </item>
+                     <item>The <hi>Energie</hi> is virtually the <hi>Operation:</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Becauſe,
+<list>
+                     <item>The <hi>Eſſence</hi> is the Abyſſe from whence the <hi>Subſistencies</hi> Emane;</item>
+                     <item>The <hi>Subſiſtencies</hi> are the Fountains from which the <hi>Energies</hi> flow;</item>
+                     <item>The <hi>Energies</hi> are the Cauſes (in the Subject) of all <hi>Operations.</hi>
+                     </item>
+                  </list>
+               </p>
+               <pb n="3" facs="tcp:107652:2" rendition="simple:additions"/>
+               <p>In like manner,
+<list>
+                     <item>The <hi>Operation</hi> is not the <hi>Energie;</hi>
+                     </item>
+                     <item>The <hi>Energie</hi> is not the <hi>Subſistency;</hi>
+                     </item>
+                     <item>The <hi>Subſiſtency</hi> is not the <hi>Eſſence:</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>And yet,
+<list>
+                     <item>The <hi>Operation</hi> is relatively the <hi>Energie;</hi>
+                     </item>
+                     <item>The <hi>Energie</hi> is relatively the <hi>Subſistency;</hi>
+                     </item>
+                     <item>The <hi>Subſiſtency</hi> is relatively the <hi>Eſſence.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Becauſe,
+<list>
+                     <item>The <hi>Operations</hi> (in the ſubject) are the <hi>Energies</hi> termina<g ref="char:EOLhyphen"/>ted;</item>
+                     <item>The <hi>Energies</hi> are the <hi>Subſiſtencies</hi> limited;</item>
+                     <item>The <hi>Subſiſtencies</hi> are the <hi>Eſſence</hi> ſpecificated.</item>
+                  </list>
+               </p>
+               <p>In reſult and ſumme (the work of the Creation ſimply con<g ref="char:EOLhyphen"/>ſidered pretermitted)</p>
+               <p>The <hi>Operation Prime,</hi> for the new Creation or Reſtauration, is the Influence <hi>of</hi> the Eſſence, <hi>from</hi> the Subſiſtencies, <hi>by</hi> their Energies, concentred <hi>in the Mediator,</hi> from him, by a ſecond operation upon lapſed nature, terminated <hi>in Particulars.</hi>
+               </p>
+               <p>And thus the <hi>Lowest</hi> hath (from that which is neareſt to it ſelf) of the <hi>Highest</hi> and <hi>Soveraign Being;</hi> what could not otherwiſe, either be derived from It, or, in that ſtate of Lapſe, be received by the Creature.</p>
+               <p>Becauſe, as <hi>Eſſence,</hi> in its Infinity Eſſential, <hi>(i.)</hi> as Eſſence, did not work <hi>ad extra</hi> (i.) outwardly to the Being of the Creature, but in the <hi>Subſistencies;</hi> Nor did the <hi>Subſiſtencies</hi> worke to the conſtitution or making up that Being in the Creature, in the ſtate of Integrity, but by their <hi>Energies:</hi> So, neither could the <hi>Subſi<g ref="char:EOLhyphen"/>ſtencies</hi> condeſcend to nature in the ſtate of Lapſe for Reſtaura<g ref="char:EOLhyphen"/>tion; nor the <hi>Creature</hi> in that ſtate, receive their Influence by their <hi>Energies</hi> immediately; had They not by thoſe their reſpective <hi>Working Powers,</hi> ſanctifying (in a Perſon prepared) the <hi>Firſt Fruits</hi> of humane nature; as well <hi>Treaſured</hi> up thoſe their efficacies from Themſelves, as <hi>Fitted</hi> them (treaſured up) for the creatures Re<g ref="char:EOLhyphen"/>ceiving them: The Principles, as thus in <hi>Him</hi> prediſpoſedly uni<g ref="char:EOLhyphen"/>ted, ſo their <hi>Glory</hi> for the creature (as it were) rebated in the Perſon of <hi>a Mediator.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:107652:3" rendition="simple:additions"/>
+               <head>Secondly, The Concatenation of the <hi>Heads of the Grounds of the Scripture,</hi> as they are <hi>a Narrative of the methods of that GOD</hi> in thoſe his great Deſignes, the <hi>Creating,</hi> and <hi>Reſtoring</hi> of mankinde; and give us the <hi>Phyſicall</hi> and <hi>Morall</hi> Theologicall Grounds conteined in them <hi>(i.)</hi> the Naturall Heads and Reſult of and from them; which we repreſent in the ſeverall Heads and Notes of the <hi>Inward Circle</hi> and <hi>Outward Epicycle.</hi>
+               </head>
+               <p>And firſt, as an <hi>Inlet</hi> to the whole,
+<list>
+                     <item>A Look before the Crea<g ref="char:EOLhyphen"/>tion of the <hi>viſible</hi> and <hi>Ani<g ref="char:EOLhyphen"/>mate World;</hi> and ſo of the Creation of (the <hi>Firſt Race</hi> of Intellectuals) <hi>Spirits,</hi> ſimple Eſſences; of which Some Adhered and ſtood Theſe <hi>Confirmed,</hi> and their number to be made up by a <hi>ſecond Race.</hi>
+                     </item>
+                     <item>A Look before the Crea<g ref="char:EOLhyphen"/>tion of the <hi>viſible</hi> and <hi>Ani<g ref="char:EOLhyphen"/>mate World;</hi> and ſo of the Creation of (the <hi>Firſt Race</hi> of Intellectuals) <hi>Spirits,</hi> ſimple Eſſences; of which Some kept not their firſt ſtate. Theſe <hi>Reprobated,</hi> for whom <hi>Tophet;</hi> whence the Devil and evil Angels.</item>
+                  </list>
+               </p>
+               <p n="2">II. The Creation of the <hi>viſible Animate-world;</hi> and of the <hi>Second Race</hi> of Intellectuals, <hi>Man,</hi> in the Protoplaſt, the <hi>Firſt Adam;</hi> A <hi>Spiritual Eſſence Imbodied</hi> (i.) conſiſting of <hi>Inner and Out<g ref="char:EOLhyphen"/>ward Man,</hi> to be made One with the <hi>ſimple Eſſences (Spirits unbodied)</hi> thoſe of the Firſt Race that ſtood: Their <hi>Innate Law, Covenant of Nature</hi> by <hi>Impreſſe upon Adheſion</hi> of the Inward Man; And the <hi>Appendixes preparatory</hi> (Sacrament, the <hi>Tree of Life;</hi> Sab<g ref="char:EOLhyphen"/>bath, the <hi>Rest;</hi> Symboles of <hi>Grace</hi> and <hi>Glory</hi>) for <hi>conſummation</hi> of the Perſon and Nature both in the <hi>Inner</hi> and <hi>Outward Man,</hi> up<g ref="char:EOLhyphen"/>on the condition of that Covenant performed.</p>
+               <p n="3">III. The <hi>Inhibition, Probational</hi> of his <hi>Inward Adheſion</hi> (in that Covenant of Nature) by his <hi>Outward Obedience</hi> unto this Ne<g ref="char:EOLhyphen"/>gative Law, for the <hi>fixing</hi> of that State of Nature in his Perſon, by the <hi>Annexing</hi> thoſe Appendixes preparatory upon the con<g ref="char:EOLhyphen"/>dition performed <hi>(i.) Adhering and Obeying:</hi> And the <hi>Threat</hi> annext, if otherwiſe, being an <hi>Antedated Sentence.</hi>
+               </p>
+               <p n="4">IV. The <hi>Breach</hi> and Violation of that <hi>Covenant</hi> by <hi>Diſadheſion,</hi> and of the <hi>Probational Inhibition</hi> likewiſe by <hi>Diſobedience,</hi> com<g ref="char:EOLhyphen"/>monly call'd the <hi>Fall:</hi> whereupon the <hi>Appendixes</hi> (becauſe only preparatory) become <hi>ſuſpended;</hi> The <hi>Threat</hi> before, now an <hi>Actual ſentence,</hi> the <hi>Curſe incurred;</hi> importing, upon Nature forfeited, <hi>Averſion</hi> or turning away the Face of his Creator from him; and
+<pb n="5" facs="tcp:107652:3"/>the Word <hi>withdrawing</hi> his Principle of Grace: Both theſe as the <hi>Paena damni</hi> or Privative Evil; And in demerit <hi>eternall Dereliction</hi> of his Intellectual Nature in that ſtate; and caſting it off into the ſtate of <hi>Tophet</hi> (prepared for thoſe of the Firſt Race that kept not their firſt ſtate) as the <hi>Paena ſenſus</hi> or Poſitive Evil of Puniſh<g ref="char:EOLhyphen"/>ment; Theſe relatively from the <hi>Covenant</hi> diſtinctly terminated in that his <hi>Inward</hi> Man; And from the <hi>Inhibition, Support with<g ref="char:EOLhyphen"/>drawn,</hi> as the <hi>Privative Evil;</hi> and Mortality ſeizing on him, as the <hi>Poſitive,</hi> terminated in the Body or <hi>Outward Man;</hi> and from all theſe <hi>Glory</hi> in deſigne from the <hi>Spirit</hi> of neceſſary conſequence come <hi>ſhort of.</hi>
+               </p>
+               <p n="5">V. <hi>The Interpellation,</hi> a <hi>Reſcuing</hi> from the <hi>Execution</hi> of the <hi>Sen<g ref="char:EOLhyphen"/>tence</hi> and <hi>Curſe</hi> upon that <hi>Breach;</hi> And the State of Nature (as ſo reſcued from the <hi>Paenaſenſus</hi> or Poſitive Evil) to be conſider<g ref="char:EOLhyphen"/>ed under the <hi>Paenadamni</hi> or Privative onely: Yea farther (upon the Creator's admitting that Interpellation) <hi>A Reprieve</hi> from the <hi>Sentence,</hi> and ſo the <hi>Curſe</hi> for the preſent <hi>ſublevated</hi> both to the <hi>Inward</hi> and <hi>Outward Man,</hi> by which a poſſibility for a follow<g ref="char:EOLhyphen"/>ing Covenant for <hi>Restoring of Both.</hi>
+               </p>
+               <p n="6">VI. The <hi>Reſtauration</hi> of Nature in the <hi>Inward</hi> and <hi>Outward Man</hi> (under the forfeiture to Juſtice ſuſpended upon that Reſcue and Reprieve) in Decree by the <hi>Covenant of Grace Primitive in the firſt Tranſaction,</hi> as the <hi>New Creation</hi> in the <hi>Second Adam</hi> by this the <hi>New Covenant</hi> (for <hi>Reſtauration</hi> and <hi>Revelation</hi>) betwixt the Creator <hi>Ordaining,</hi> and the Eternal Word <hi>undertaking</hi> to be In<g ref="char:EOLhyphen"/>carnate by his <hi>Eternal Spirit immediately</hi> united to the Intellectu<g ref="char:EOLhyphen"/>all <hi>Nature,</hi> and by it to be united to the <hi>Body.</hi> Whereby (the prin<g ref="char:EOLhyphen"/>ciple of <hi>Grace</hi> withdrawn Reſtored to our <hi>Nature</hi> in that <hi>the ſecond Adam</hi>) He became a fit <hi>Mediator Sponſor</hi> (in the Apoſtles phraſe a <hi>Pledge</hi>) to perform the Condition of the <hi>firſt Adam</hi> by <hi>Ad<g ref="char:EOLhyphen"/>heſion</hi> Inward, <hi>Obedience</hi> Outward. This not only <hi>Active to van<g ref="char:EOLhyphen"/>quiſhing,</hi> but <hi>Paſsive</hi> alſo (for the <hi>ſatisfying</hi> the guilt of the firſt <hi>Adams non-performance</hi>) even to the <hi>ſuffering</hi> of Death; whence <hi>Raiſed</hi> &amp; <hi>Glorified</hi> (as <hi>Reward</hi> upon the work done, taking poſſeſ<g ref="char:EOLhyphen"/>ſion <hi>in our nature</hi> of the <hi>Glory</hi> come ſhort of) He was thereby made a fit <hi>Mediater Regenerator</hi> to reſtore the principle of Grace <hi>to particulars,</hi> and ſo gave them title to the <hi>Glory</hi> in Him prepared for them. For the efficacious <hi>Revealing</hi> and applying of which Grace to the <hi>Inward</hi> by the <hi>Outward Man,</hi> Outward Means and <hi>Ordinances</hi> are hereunto Codecreed in him, as <hi>Apostle</hi> by Unction
+<pb n="6" facs="tcp:107652:4"/>from the Father to <hi>Reveale,</hi> as the work given him to do: And ſo here, <hi>Nature</hi> ſanctified, the <hi>Inner Man</hi> delivered from the <hi>Poſitive Evil,</hi> the Execution of the Sentence, and <hi>the ſtate of Tophet,</hi> by <hi>tranſlating</hi> of the Guilt and Curſe upon the <hi>Satisfaction</hi> under<g ref="char:EOLhyphen"/>taken: From the <hi>Privative Evil,</hi> the Creator now lifting up the light of his Countenance in his <hi>Decreed Ordinances</hi> for the reſto<g ref="char:EOLhyphen"/>ring of the Principle of <hi>Grace</hi> withdrawn, and <hi>Glory</hi> conſecutive thereupon: And though the <hi>Outward Man</hi> ſtill continued under <hi>its incurr'd Curſe,</hi> Gen. 3.19. <hi>To dust thou ſhalt return,</hi> yet that alſo here <hi>ſanctified</hi> upon Capitulation, that the Creator (to make it redeem<g ref="char:EOLhyphen"/>able in us) would by a <hi>ſecond</hi> work prepare it for the Eternal Word to aſſume, and ſo to become voluntarily and of himſelf <hi>Mediator to Redeem;</hi> and in it Annoynted, <hi>Apoſtle to Reveale.</hi> All from this <hi>(the beginning of time)</hi> by His cooperating Grace in Shadowes and Types in the ſeverall Adminiſtrations (and from this Compact) having <hi>efficacie</hi> as Ordinances; though as to the Actuating them in the <hi>fullneſſe</hi> of time <hi>Perſonally</hi> in and from Himſelf (as in the <hi>Fleſh</hi>) they were onely in <hi>Decree.</hi>
+               </p>
+               <p n="7">VII. <hi>The Actual Reſtauration of Nature compleat</hi> in the <hi>Covenant of Grace Primitive in the ſecond Tranſaction,</hi> mutually made good in the Perſon of the Mediator, by the <hi>Creator's preparing,</hi> and ſo ſan<g ref="char:EOLhyphen"/>ctifying the Humane nature or <hi>Body</hi> as to the Outward Man: And the <hi>Word</hi> by the Intellectual nature, the Inner <hi>Man</hi> (unto which from the <hi>firſt Tranſaction</hi> it was united) aſſuming it pre<g ref="char:EOLhyphen"/>pared into union with his Divine Nature; ſo reſtoring the Principle of Grace in his Perſon to Humane nature compleat, both to the <hi>Inward</hi> and <hi>Outward</hi> Man: On whom thus conſtitu<g ref="char:EOLhyphen"/>ted (His Duty, <hi>Obedience Active and Paſsive,</hi> performed) the Reward, <hi>Glory,</hi> is actually conferred: All according to that <hi>Re<g ref="char:EOLhyphen"/>ſtauration in Decree.</hi>
+               </p>
+               <p n="8">VIII. The <hi>Reſtauration</hi> of <hi>Particulars</hi> in <hi>the Covenant Derivative,</hi> as the <hi>Revelation</hi> and efficacious Application of the <hi>Covenant Primitive</hi> from Him, by complication of <hi>Ordinances</hi> and <hi>My<g ref="char:EOLhyphen"/>ſterie,</hi> into which coming as into the <hi>Kingdom of God,</hi> their Perſons are by the Ordinances ſanctified, and they renewed in Knowledge from Him, <hi>as Apostle by unction</hi> of the Holy Ghoſt, Jo. 14.26. <hi>teaching them all things:</hi> And then (upon the appropriate condition of Faith in its Advances) they receive from Him, <hi>as Mediator, by Influx</hi> of that his Renewing Nature, the Myſtery, <hi>the Righteouſneſſe of the Kingdom,</hi> unto their <hi>Regeneration</hi> in their
+<pb n="7" facs="tcp:107652:4"/>Inward Man, upon and according unto that actuall Reſtauration in the <hi>Perſon of the Mediator.</hi>
+               </p>
+               <p n="9">IX. That <hi>Restauration</hi> of Particulars by <hi>Influx,</hi> upon the ap<g ref="char:EOLhyphen"/>propriate Condition of <hi>Adhering</hi> and <hi>Vanquiſhing</hi> (in the <hi>Cove<g ref="char:EOLhyphen"/>nant Derivative Finiſh't</hi>) conſummate as to the Inward Man in the <hi>Earneſt</hi> from the <hi>Spirit ſealing,</hi> The <hi>third Subſiſtency;</hi> and the <hi>Cutward</hi> man by that his work on it, (the <hi>Inward,</hi>) <hi>ſealed</hi> to the Day of <hi>Redemption.</hi>
+               </p>
+               <p n="10">X. The <hi>State of Nature</hi> by diſſolution <hi>ſeparate</hi> in and after Death, relative both to the <hi>Inward</hi> and <hi>Outward Man;</hi> the <hi>In<g ref="char:EOLhyphen"/>ward</hi> (becauſe by immediate impreſſe <hi>Sealed</hi>) immediately in <hi>actuall Bliſſe,</hi> a <hi>Bliſſe</hi> proportioned to this <hi>Separate</hi> ſtate: And the <hi>Outward Man</hi> (becauſe once united to the Inward, and by <hi>that Seal</hi> on it, ſealed to its <hi>Redemption</hi>) reſting in Hope.</p>
+               <p n="11">XI. The <hi>state of Nature,</hi> both <hi>Inward</hi> and <hi>Outward;</hi> (accor<g ref="char:EOLhyphen"/>ding to <hi>that Seal and Rest in Hope</hi>) by the <hi>Reſurrection reunited</hi> and perfectly reſtored; <hi>Sealed unto Tranſlation.</hi>
+               </p>
+               <p n="12">XII. The <hi>State of Nature</hi> thus, as before, perfectly reſtored in the Perſons <hi>fully redeemed.</hi> Now declaredly Acquitted at <hi>the laſt Judgement,</hi> according unto the different <hi>Adminiſtrations</hi> un<g ref="char:EOLhyphen"/>der which they were; whether <hi>Generall</hi> of the Creature, or <hi>ſpe<g ref="char:EOLhyphen"/>ciall</hi> in their ſeverall diverſifications (that is) <hi>Patriarchall, Mo<g ref="char:EOLhyphen"/>ſaicall, Propheticall, Interlegall, Evangelicall: Prime,</hi> under <hi>Christ</hi> and the <hi>Apoſtles;</hi> or <hi>Continued,</hi> in their <hi>Succeſſors</hi> unto the End of the World.</p>
+               <p n="13">XIII. The <hi>Perſons,</hi> thus by the Reſurrection redeemed, after the Reſurrection <hi>ſealed unto Tranſlation,</hi> and according unto their Adminiſtrations at the Laſt Judgement acquitted, Now finally <hi>Tranſlated,</hi> as their <hi>conſummate Glorification,</hi> and made <hi>One Hi<g ref="char:EOLhyphen"/>erarchy</hi> with thoſe of the firſt Race that Adhered and ſtood.</p>
+               <p>This the Accompliſhing of <hi>that firſt Deſigne,</hi> the End <hi>of the firſt Creation</hi> in the ſtate and Covenant of Nature violate and fruſtrated by the firſt <hi>Adam's</hi> Diſ-adheſion (explicated in his Diſ-obedience) <hi>Now,</hi> and <hi>Thus</hi> repaired according to This counſell of the will of God in a <hi>ſecond Deſigne,</hi> the end of their <hi>ſecond and New Creation</hi> in the ſtate and Covenant of Grace, made good and finiſht by the <hi>Second Adam, Chriſt Jeſus, (God bleſſed for ever)</hi> upon his Adheſion, Vanquiſhing, and Suffering (explicated by his <hi>Obedienc Active</hi> and <hi>Paſſive</hi>) according unto the Inter<g ref="char:EOLhyphen"/>pellation and Covenant Primitive for the Redemption and Reſtauration of Mankinde.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:107652:5"/>
+               <head>Thirdly, The <hi>Conſequentiall Heads</hi> of the Grounds of the Scripture, as they are involved in the <hi>Primitive Fundamentals,</hi> and unto which they are relatively conſequentiall; which we have for diſtinction Chequered.</head>
+               <p>THus the <hi>Trinity Supreame, Creator</hi> and <hi>Word;</hi> operating by Creation unto the conſtitution of the creature Intellectu<g ref="char:EOLhyphen"/>all, as Fountains Prime; and <hi>Spirit,</hi> the Third Subſiſten<g ref="char:EOLhyphen"/>cy, diſtinct from either, which was (in Deſigne) the conſum<g ref="char:EOLhyphen"/>mating Principle to the ſecond Race upon perſeverance: in<g ref="char:EOLhyphen"/>cluded in and evidenced by that Head, the Creation <hi>of the viſible world:</hi> And yet farther, their <hi>diſtinct Perſonalities</hi> more ful<g ref="char:EOLhyphen"/>ly appearing by the Interpellation and Covenant of Grace Pri<g ref="char:EOLhyphen"/>mitive in the firſt Tranſaction, we conſequently ſtate it not till in this place, the cloſe of the <hi>firſt Fundamentals,</hi> from which it hath its evidence, as included in them.</p>
+               <p>The Conſideration of thoſe of the firſt Race that ſtood is <hi>chequered</hi> alſo, though but an Appendix to the <hi>ſixth Head:</hi> And that it is properly unto it an Appendix, is confirmed by the Holy Ghoſt, in that he ſaith, <hi>Heb.</hi> 1.14. <hi>Are they not all ministring Spirits, ſent forth for them who ſhall be Heirs of Salvation?</hi> that is, of thoſe who are Claimers by this Covenant, which was properly <hi>A Co<g ref="char:EOLhyphen"/>venant of Salvation,</hi> the Covenant of Grace Primitive in the firſt Tranſaction, which is the <hi>ſixth Head.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The <hi>Conſequentials</hi> involved in the Heads of <hi>Mediatorſhip.</hi>
+               </head>
+               <p>
+                  <hi>THe Trinity of Condeſcenſions</hi> for Redemption, The <hi>Creator,</hi> now compleat and <hi>actually Father</hi> by Generation, in over<g ref="char:EOLhyphen"/>ſhadowing the Virgin and preparing a <hi>Body:</hi> The <hi>Word,</hi> now <hi>Sonne,</hi> by Incarnation of his <hi>Eternall Spirit</hi> (perſonally united to the Intellectuall nature, and by it to that <hi>Body</hi> prepared) the <hi>New Creature:</hi> The <hi>Spirit,</hi> now <hi>Conſummator</hi> of Glory in full, <hi>actuated</hi> in the Perſon of the Mediator, and by Him <hi>merited</hi> for <hi>particulars,</hi> as the Seal of <hi>Grace</hi> and Earneſt of <hi>Glory.</hi> All inclu<g ref="char:EOLhyphen"/>ded in and reſulting from <hi>the Covenant Primitive in the ſecond Tranſaction,</hi> and the <hi>Covenant Derivative Finiſht.</hi>
+               </p>
+               <pb n="9" facs="tcp:107652:5"/>
+               <p>The <hi>Church Regenerate,</hi> the Ultimate End of this whole work of Condeſcentions for <hi>Redemption,</hi> as the New Creation of God: This Conſequentiall upon the Covenant Derivative, and Covenant Derivative Finiſht.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>Conſequentials</hi> involved in the Heads of <hi>Apoſtleſhip.</hi>
+               </head>
+               <p>
+                  <hi>SCripture</hi> comprehended in the Emergent Revelations unto the <hi>Patriarchs, Moſes,</hi> the <hi>Prophets, Jeſus Chriſt,</hi> and the <hi>Apo<g ref="char:EOLhyphen"/>stles;</hi> The ſubject matter of <hi>Thoſe Records;</hi> That <hi>Revela<g ref="char:EOLhyphen"/>tion</hi> by them to us, onely <hi>Divine;</hi> And the <hi>Tradition</hi> of it from them to us, onely <hi>Authenticke.</hi>
+               </p>
+               <p>The <hi>Trinity of Condeſcenſions for Adminiſtrations</hi> in the Apoſto<g ref="char:EOLhyphen"/>late of Jeſus Chriſt: The <hi>Father,</hi> now Anoynting, as <hi>Lord:</hi> The <hi>Sonne</hi> Anoynted, as <hi>Servant:</hi> The <hi>Holy Ghoſt,</hi> the Energie of the Father by <hi>Proceſsion from Him</hi> in fullneſſe on the Sonne, and by and from Him in the ſeverall diſpenſations, the Principle of ſpeciall Adminiſtrations, for <hi>Revelation;</hi> included in the <hi>Cove<g ref="char:EOLhyphen"/>nant Derivative,</hi> as the ſubject matter of his Apoſtleſhip, and implied in the <hi>principle of this Houſe of Adminiſtrations.</hi>
+               </p>
+               <p>The <hi>Subadminiſtrators,</hi> by whom that Apoſtleſhip of Jeſus Chriſt was executed in all Ages, to whom the <hi>word of Recon<g ref="char:EOLhyphen"/>ciliation</hi> was committed, and with whom it was to remaine and be continued unto <hi>the end of the world;</hi> both as to <hi>the prime Or<g ref="char:EOLhyphen"/>dinances,</hi> The Power of ſending and Government; and <hi>ſecondary Ordinances,</hi> the Adminiſtration of the Word and Sacrament, by thoſe that are ſo ſent.</p>
+               <p>The <hi>Church Congregate,</hi> the Ultimate End of this whole work of <hi>Condeſcenſions</hi> for <hi>Administrations,</hi> and ſo the Laſt in theſe con<g ref="char:EOLhyphen"/>ſequentials; <hi>that He might ſanctifie and cleanſe it with waſhing of water by the Word</hi> (the Initiating Sacrament to this Church) <hi>that He might</hi> (as Apoſtle) <hi>preſent it unto himſelf</hi> (as Mediator) <hi>a Church, not having ſpot or wrinkle or any ſuch thing;</hi> Eph. 5.26, 27.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:107652:6"/>
+               <head>The <hi>Influence</hi> of the <hi>Spirituall</hi> Theologicall Grounds (repreſented in the inner Lines) their Juncture and Union with the <hi>Naturall</hi> and <hi>Morall</hi> Theologicall Heads, on which they terminate themſelves.</head>
+               <p>HAving thus given <hi>in ſumme,</hi> the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or Narrative of the Things <hi>as they are,</hi> as well <hi>Hyperphyſicall,</hi> as <hi>Phyſicall</hi> and <hi>Morall,</hi> with their relative <hi>Conſequentials,</hi> ſeparate and apart: we farther deſire, for the farther comprobating of the <hi>Scheme,</hi> to ſuggeſt the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or manner how <hi>in Juncture</hi> with <hi>themſelves</hi> and <hi>each other,</hi> they ſo become one <hi>entire Body,</hi> as we have repreſented them in It.</p>
+               <p>And firſt, in all humble confidence preſuming upon that De<g ref="char:EOLhyphen"/>monſtration (which, <hi>by his Outgoings</hi>) the Infinite, Immortall, Incomprehenſible <hi>Godhead</hi> hath given <hi>of it ſelf;</hi> we do in confor<g ref="char:EOLhyphen"/>mity thereto ſuppoſe, and (by thoſe Lines iſſuing from the <hi>Eſſence,</hi> and terminated on the <hi>Subſiſtencies</hi>) expreſſe Their Co<g ref="char:EOLhyphen"/>eſſentiall <hi>Inbeings,</hi> their Coeternall and Coequall <hi>Emanations (i.)</hi> Flowings forth from It.</p>
+               <p>The termination of thoſe Lines upon the <hi>Figures</hi> 1, 2, 3. ſpeak<g ref="char:EOLhyphen"/>eth not their Priority or Poſteriority <hi>in order of Nature</hi> (they be<g ref="char:EOLhyphen"/>ing ſo <hi>Coequall</hi> and <hi>Coeternall</hi>) but onely ſheweth their <hi>Order of Working,</hi> demonſtratively evident from their after-works in their <hi>ſubſiſtentiall Actings</hi> and <hi>energeticall Operations,</hi> according to their diſtinct reſpective <hi>ſpecifications,</hi> for Nature, Grace, Glory: Be<g ref="char:EOLhyphen"/>cauſe there muſt be Nature <hi>(i.) Being</hi> from the Creator, before there can be <hi>Impreſſe upon that Being</hi> (i.) Grace from the Word: And there muſt be Nature and Grace from both, before <hi>They</hi> can be <hi>anneal'd</hi> or <hi>fix'd</hi> by the Third, <hi>the Spirit,</hi> to make that Grace become Nature <hi>(i.)</hi> Glory Inchoate, <hi>in the Earnest con<g ref="char:EOLhyphen"/>ſummate</hi> here, or Glory in full <hi>(i.) abſolutely conſummate</hi> upon Tranſlation.</p>
+               <p>And ſecondly, with the ſame confidence (becauſe upon the <hi>ſame grounds,</hi> of the Subſiſtencies in <hi>Their Outgoings</hi> demon<g ref="char:EOLhyphen"/>ſtrating themſelves) we do determine of their reſpective <hi>Ener<g ref="char:EOLhyphen"/>gies</hi> (i.) their <hi>Working Powers</hi> or <hi>Spirits,</hi> One with themſelves, and therefore diſtinct from <hi>each other,</hi> as <hi>Themſelves</hi> are.</p>
+               <p>And though <hi>One</hi> with themſelves and <hi>distinct</hi> from each
+<pb n="11" facs="tcp:107652:6"/>other; yet <hi>the ſame Energie</hi> (from One and the ſame Subſiſtency <hi>diverſifying</hi> it ſelf for operations towards and upon the Creature) becometh <hi>varied</hi> in Each and all thoſe Operations, according to the capacity of the Subject in its reſpective ſtates of <hi>Conſtitution</hi> and <hi>Reſtauration</hi> in its ſeverall Advances.</p>
+               <p>Nor is it without reaſon that we call them <hi>Energeticall Opera<g ref="char:EOLhyphen"/>tions</hi> (not ſimply <hi>Energies and Operations</hi>) becauſe, as in and from <hi>the Subſiſtencies,</hi> they are properly <hi>Energies;</hi> ſo in and up<g ref="char:EOLhyphen"/>on <hi>the Creature,</hi> properly <hi>Energeticall Operations:</hi> as we ſhall ſhew you in their union with their Heads, with which they muſt be read, as in the Order and manner of Reading we have di<g ref="char:EOLhyphen"/>rected.</p>
+               <p>All which <hi>Subſistentiall Actings,</hi> and Energeticall Operations, we repreſent by the Lines drawn from the <hi>Subſistencies,</hi> termina<g ref="char:EOLhyphen"/>ting on their <hi>ſeverall Heads;</hi> which we are now curſorily to run over.</p>
+               <p>Of which, the firſt Three, give us the <hi>Conſtitution</hi> of the <hi>firſt Race</hi> of Intellectuals <hi>Conſummate;</hi> that is, every of the <hi>Subſiſten<g ref="char:EOLhyphen"/>cies</hi> having their <hi>Energeticall Operations</hi> in the Creation of that Race by <hi>Conſtitution fixt:</hi> In conſtitution we ſay, as deriving their Nature (which we in them call ſimply <hi>Eſſence</hi>) from the Crea<g ref="char:EOLhyphen"/>tor; their Grace (which in them we call <hi>Specification</hi>) from the Word; their Glory (which we in them call <hi>Conſummation in constitution</hi>) from the Spirit: As giving us the <hi>reall ground</hi> laid by the wiſedom of God in their forming, for his indiſpenſible and <hi>Abſolute Reprobation</hi> of them, if they ſhould Apoſtatize; in that <hi>All their Operations</hi> being, as we have ſaid, fixt; <hi>All</hi> muſt be equally incenſed, and ſo there could be no Interpellator to ſtop the Ju<g ref="char:EOLhyphen"/>ſtice, much leſſe Mediator to undertake for them: <hi>Heb.</hi> 2.16. <hi>He in no wiſe lald hold on the Angels</hi> (i.) to deliver them, <hi>but took the ſeed of Abraham.</hi>
+               </p>
+               <p>The next Three ſpeak the <hi>Constitution</hi> of the Secohd Race, <hi>not conſummate:</hi> Their Nature, complex'd of Inner and outward <hi>Man</hi> (from the Creator) onely <hi>conſtituted,</hi> (i) <hi>fixt;</hi> Their Grace (from the Word) <hi>in Principle not fix't</hi> (becauſe to its fixing it prerequired a <hi>Condition</hi> on Man's part to be performed) And Their Glory (from the Spirit) which <hi>ſhould have fixed</hi> Grace and <hi>conſummated</hi> Nature, in Deſigne onely; which we have made the Line to ſay, in that it comes not home, becauſe the <hi>Energie</hi> it ſelf could not be attained, but upon <hi>perſeverance:</hi> And
+<pb n="12" facs="tcp:107652:7"/>this gives us the like <hi>reall ground</hi> of the <hi>poſsibility of reſtoring this Race,</hi> if they ſhould Fall, becauſe their <hi>Conſtitution</hi> was not in their creation <hi>conſummate.</hi>
+               </p>
+               <p>The Inhibition hath no <hi>Energeticall line</hi> terminating on it, be<g ref="char:EOLhyphen"/>cauſe not convoying any thing to <hi>his nature,</hi> but onely as <hi>of Poſitive Precept,</hi> a Negative Law, laying hold on him, as from the Lord and Soveraigne of <hi>his Perſon.</hi>
+               </p>
+               <p>Nor hath the Fall any, It being his <hi>Defection from</hi> the God of <hi>Nature,</hi> by his breach of the <hi>Covenant</hi> of Nature, and his <hi>Rebellion against</hi> the Soveraigne of <hi>his Perſon,</hi> by his tranſgreſſion of the Law: yet the <hi>Conſequen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> thereof, being proportioned to his con<g ref="char:EOLhyphen"/>ſtitution by the <hi>Energies</hi> (to wit, his <hi>Nature forfeited</hi> into the hands of the <hi>Creator,</hi> from whom it derived <hi>its constitu<g ref="char:EOLhyphen"/>tion;</hi> his <hi>Grace</hi> in Principle, the Energie, from the Word, <hi>withdrawn;</hi> becauſe (the condition unperformed) <hi>not fix't;</hi> And his <hi>Glory in deſigne,</hi> from the Spirit, <hi>come ſhort of,</hi> becauſe He <hi>perſevered not</hi>) <hi>miniſter</hi> unto us the <hi>reall ground,</hi> why the <hi>Justice of the Creator onely</hi> remaineth to be <hi>ſatisfied,</hi> and mankinde, <hi>in the Protoplaſt,</hi> delinquent to <hi>him alone.</hi>
+               </p>
+               <p>But that <hi>the Juſtice of the Creator</hi> might be ſatisfied, order of of nature requireth, that It firſt be <hi>ſuſpended:</hi> And <hi>that Suſpenſion</hi> muſt as neceſſarily precede the <hi>Reſtauration in Decree;</hi> as <hi>ſatisfa<g ref="char:EOLhyphen"/>ction</hi> made good muſt precede the <hi>Actuall Reſtauration.</hi>
+               </p>
+               <p>And here we are caſt upon diſquiſition, How Mankinde in the <hi>first Adam</hi> ſhall for the preſent be reſcued from the <hi>Threat,</hi> now a <hi>ſentence?</hi> And how the <hi>Justice</hi> may be <hi>ſuperſeded,</hi> for the making way unto <hi>Redemption</hi> and <hi>Reſtauration</hi> to enſue?</p>
+               <p>And this we are neceſſitated unto, that we may make up the <hi>Chaſme</hi> or <hi>Hiatus</hi> in the <hi>Primitive</hi> and <hi>firſt Truths,</hi> betwixt the <hi>State of Nature,</hi> under the <hi>Guilt</hi> upon breach of <hi>Covenant,</hi> and <hi>Tranſgreſsion</hi> by the Fall, with the <hi>Sentence</hi> thereupon; And <hi>the Redemption</hi> from that Juſtice of the Creator, and <hi>Reſtauration</hi> of the Race by <hi>another Covenant, A Covenant</hi> of Grace.</p>
+               <p>For though, from the <hi>conſticution</hi> of this ſecond Race, we have diſcovered and evidenced, that by the wiſedom of God it was provided, that their Lapſe, if it ſhould become <hi>actuall,</hi> ſhould not put them beyond the <hi>poſsibility of Reſtoring,</hi> yet muſt that <hi>in<g ref="char:EOLhyphen"/>curred Sentence,</hi> be revers'd as to the <hi>delinquent,</hi> and that Juſtice ſtopt; which we cannot referre either to the <hi>Soveraigne Love of the Creator,</hi> with ſome; or to <hi>His ſoveraigne Beneplacit,</hi> or
+<pb n="13" facs="tcp:107652:7"/>
+                  <hi>ſovereigne Mercy</hi> with others; becauſe (Man being in reall Guilt and under an <hi>actuall ſentence,</hi>) it would croſſe thoſe his other Attributes of <hi>Soveraigne Holineſſe, Justice and Truth,</hi> already <hi>fixt</hi> in the <hi>Covenant</hi> and <hi>Threat.</hi>
+               </p>
+               <p>To ſalve therefore that croſſing of Attributes, we have by diſ<g ref="char:EOLhyphen"/>quiſition found, and do give <hi>another expedient,</hi> which we call <hi>The interpellation of the Eternall Word</hi> (ſo the Line ſpeaks it,) God of God (that is) God <hi>the Word</hi> (the ſecond Subſiſtencie) of God <hi>in Eſſence</hi> (not Chriſt, the <hi>Word Incarnate,</hi> which was the Per<g ref="char:EOLhyphen"/>ſon of the Mediator) <hi>Interpoſing himſelf;</hi> And this putting himſelf in the <hi>Gap,</hi> was His <hi>the Word's</hi> work <hi>ſolitarily;</hi> A Reſcue upon his <hi>ſelf worth.</hi>
+               </p>
+               <p>And this, beſides the ſalving of that Croſſing of the Attri<g ref="char:EOLhyphen"/>butes, gives us in conſequence</p>
+               <p>Firſt, A Plumbe-Line, by which we ſound and fathome in the after Capitulation, the <hi>depth</hi> of the <hi>wiſedom</hi> of the <hi>Creator,</hi> in <hi>tranſmitting</hi> (not diſanulling) <hi>the Curſe,</hi> in <hi>delivering</hi> (not abſol<g ref="char:EOLhyphen"/>ving) <hi>the delinquent;</hi> and by <hi>that mortality</hi> (introduced upon the Temptation and Fall) deſtroying <hi>the Enemy himſelf:</hi> and diſcover the Bottom upon which the <hi>ſubmiſsion</hi> of God the <hi>Word,</hi> is alſo grounded, for making <hi>ſatisfaction</hi> unto that <hi>Juſtice,</hi> becauſe from <hi>It</hi> he <hi>reſcued</hi> mankinde.</p>
+               <p>Secondly, It reacheth unto us a <hi>Jacob</hi>'s-ſtaff, whereby we may take the true <hi>height</hi> of the <hi>Divine Nature</hi> of Jeſus Chriſt the Mediator, and demonſtratively conclude (from his ſatisfaction made) Him to be the <hi>ſame</hi> Eternall Word <hi>then Incarnate,</hi> which <hi>now Interpellated</hi> and <hi>Capitulated.</hi>
+               </p>
+               <p>This Head, thus diſcover'd, will be Fruitfull for the eviden<g ref="char:EOLhyphen"/>cing of many <hi>other particulars,</hi> which have their <hi>firſt Root</hi> in it, which we do at preſent pretermit, not willing to anticipate our ſelves in our larger compleat <hi>Prodromus,</hi> nor in our after larger work.</p>
+               <p>Upon the Covenant Primitive in the firſt Tranſaction, two Lines terminate from the Creator and Word; <hi>Theſe two</hi> Subſi<g ref="char:EOLhyphen"/>ſtencies being the <hi>onely Parties</hi> intereſſed in that Covenant, (whoſe reſpective works, the words on the Lines ſpeak) which doth import, that the Third Subſiſtency, as to <hi>capitulation,</hi> is not concerned; becauſe his work was but <hi>in Deſigne</hi> in the <hi>Conſtitu<g ref="char:EOLhyphen"/>tion</hi> of the firſt <hi>Adam,</hi> by <hi>the Covenant of Nature;</hi> and therefore but <hi>conſecutive</hi> (upon the work undertaken) in <hi>Decree,</hi> and not till
+<pb n="14" facs="tcp:107652:8" rendition="simple:additions"/>
+                  <hi>executed,</hi> to be <hi>actually</hi> the conſummating Principle in and to the ſecond <hi>Adam</hi> by this <hi>Covenant of Grace.</hi>
+               </p>
+               <p>And <hi>this with the Interpellation,</hi> we are bold to affirm, the <hi>Be<g ref="char:EOLhyphen"/>ginning</hi> of the <hi>Goſpel,</hi> The <hi>New Creation,</hi> and to be intended by <hi>the Foundation of the VVorld,</hi> and by all the like <hi>Goſpel</hi> expreſ<g ref="char:EOLhyphen"/>ſions: This being the Foundation of the World of <hi>Regeneration ſimply</hi> and <hi>properly</hi> ſo called, as in Goſpel ſenſe: Yea and the <hi>Foundation</hi> of the very <hi>viſible</hi> world, by the ſame Figure that the Holy Ghoſt uſing hath ſanctified to my hand, when he affirmeth, <hi>Heb.</hi> 11.19. that <hi>Abraham</hi> received his ſonne <hi>Iſaac</hi> from the <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> after a Figure.</hi>
+               </p>
+               <p>For if the reſcuing of <hi>Iſaac</hi> from the ſacrificing ſword, and the providing a Ramme to be ſacrificed in his ſtead, made that <hi>his Deliverance</hi> to be a <hi>Reſurrection:</hi> How much more ſhall this <hi>Interpellationall Reſcue, and Compact</hi> for preparing a Ranſome un<g ref="char:EOLhyphen"/>to Man, the Heir and Lord of the Creation, with the whole Fabrick (provided for him) forfeited by the Fall, be accounted both to him and it, a <hi>New Creation?</hi>
+               </p>
+               <p>Trinity Supream, as a <hi>Conſequentiall</hi> from the <hi>Primitive Fun<g ref="char:EOLhyphen"/>damentals,</hi> we have ſtated in the <hi>Systeme</hi> of <hi>Conſequentials.</hi>
+               </p>
+               <p>Note firſt, that, that Line to <hi>the Interpellation,</hi> and Thoſe two to <hi>the Covenant Primitive,</hi> are not <hi>Energeticall,</hi> but <hi>Perſonall</hi> Acts: For, as <hi>Perſonall Conſultation</hi> was neceſſary before they did exert their Energies to <hi>Conſtitution;</hi> ſo, man having here deſtroyed himſelf, there is a like reaſon for This their <hi>ſecond Conſultation,</hi> be<g ref="char:EOLhyphen"/>fore they could exert their Energies <hi>to Reſtauration.</hi>
+               </p>
+               <p>Secondly, Nor is that which we draw from thoſe of <hi>the firſt Race,</hi> which adhered and ſtood; but only doth denote by the words upon it, <hi>when</hi> they became <hi>Miniſtring ſpirits,</hi> as a farther juſtification of our calling of them <hi>Intellectuals there,</hi> and not <hi>An<g ref="char:EOLhyphen"/>gels,</hi> till <hi>here.</hi>
+               </p>
+               <p>Thoſe Three, that fall upon the <hi>Covenant Primitive</hi> in the <hi>ſe<g ref="char:EOLhyphen"/>cond Tranſaction,</hi> are <hi>purely Energeticall;</hi> the <hi>Two firſt</hi> qualifying him for <hi>Duty</hi> of <hi>Mediator Sponſor</hi> undertaken, which we there<g ref="char:EOLhyphen"/>fore reade downwards: The <hi>Third</hi> crowning him with the <hi>Re<g ref="char:EOLhyphen"/>ward</hi> appropriate to the work of <hi>Mediator Regenerator</hi> upon the <hi>Duty performed,</hi> which we therefore reade upward.</p>
+               <p>Of the other Three, which fall upon the <hi>Covenant Derivative</hi> (the <hi>ſubject Matter</hi> of his Apoſtleſhip) the <hi>Two first</hi> are to qualifie Him for that his <hi>Office</hi> Apoſtolicall, and are therefore to be read
+<pb n="15" facs="tcp:107652:8"/>downwards; the <hi>Third</hi> crowning him with <hi>Reward,</hi> upon the ſame ground with the former, to be read likewiſe upward.</p>
+               <p>The words <hi>Reſtauration executed,</hi> and <hi>Revelation executed,</hi> (which head the points of each) refer you back to the <hi>ſecond Note in the Epicycle,</hi> of their being <hi>coactuated</hi> in their reſpective Prin<g ref="char:EOLhyphen"/>ciples (by which He was fitted for <hi>each work</hi>) as <hi>That</hi> doth to the <hi>Covenant in the firſt Tranſaction,</hi> when they were <hi>codecreed.</hi>
+               </p>
+               <p>That <hi>ſingle Line,</hi> which from the Spirit, <hi>the Third Subſiſtency,</hi> fal<g ref="char:EOLhyphen"/>leth on the <hi>Covenant of Grace Derivative Finiſh't,</hi> ſheweth, that the Mediator having <hi>meritoriouſly</hi> attained it in <hi>his Perſon,</hi> for <hi>our Nature,</hi> we in <hi>conformity</hi> performing our reſpective <hi>Conditions,</hi> have in <hi>conſequence</hi> at laſt from that ſubſiſtency, an Impreſſe ſeal<g ref="char:EOLhyphen"/>ing us to <hi>Redemption,</hi> proportioned to this ſtate, which that Re<g ref="char:EOLhyphen"/>verſe Line ſpeaketh, pointing to the Redemption it ſelf in the <hi>Reſurrection,</hi> The Redemption of our <hi>Bodies,</hi> Rom. 8.23.</p>
+               <p>The next from the ſecond Subſiſtency, <hi>the Word,</hi> terminated on the <hi>Church Regenerate,</hi> doth give us, by the Scripture on it, the true and <hi>reall ground of Communication of Properties,</hi> to be between the <hi>Eternall Word,</hi> and <hi>the Perſon of the Mediator.</hi>
+               </p>
+               <p>For though the Body was prepared by the Father, by <hi>the over<g ref="char:EOLhyphen"/>ſhadowing</hi> of the Holy Ghoſt, <hi>his Energie,</hi> Luk. 1.35. yet it was ſtill as from <hi>That,</hi> but the <hi>Blood of man</hi> (though of the Sonne of God, <hi>Sonne of God</hi> and <hi>ſonne of Man</hi> being coincident) the <hi>ſeed of Da<g ref="char:EOLhyphen"/>vid according to the fleſh,</hi> Rom. 1.3. But when aſſumed into <hi>union Hypostaticall,</hi> or Plaſtick, with the Word; <hi>His Blood</hi> (viz.) the Mediator's, becometh <hi>ſo</hi> the <hi>Blood of God</hi> (viz. of God the Word) and <hi>this People</hi> purchaſed by <hi>his own Blood,</hi> Acts 20.28.</p>
+               <p>The next Three give the varied Operations of the reſpective Energies, as the <hi>Subject</hi> (under and by their <hi>foregoing</hi> operations reſpectively) is <hi>prepared</hi> for <hi>This work,</hi> the Reſurrection; and by theſe their preſent <hi>Operations,</hi> prediſpoſed for <hi>the Next,</hi> their fu<g ref="char:EOLhyphen"/>ture Glorification.</p>
+               <p>Thus:</p>
+               <p n="1">1. <hi>Nature</hi> in the Primitive ſtate, <hi>constituted</hi> by the Energie of the Creator; becomes <hi>forfeited,</hi> by the Fall; <hi>reprieved,</hi> by the Interpellation; <hi>ſanctified in Decree,</hi> by the Compact in its firſt Tranſaction; then <hi>actually ſanctified</hi> in the <hi>Perſon of the Mediator,</hi> (as to the Outward man or <hi>Body</hi>) by the <hi>overſhaddowing</hi> of the Holy Ghoſt in the Covenant in its ſecond Tranſaction; and, from that alteration thus wrought in Him, <hi>Beleevers in Particular ſan<g ref="char:EOLhyphen"/>ctified;</hi>
+                  <pb n="16" facs="tcp:107652:9"/>as they come under the Covenant Derivative then <hi>ſealed to its Redemption</hi> in and by the Covenant Derivative Finiſht; And ſo Nature <hi>Conſummate</hi> in the <hi>Earneſt.</hi>
+               </p>
+               <p n="2">2. <hi>Grace</hi> in the Primitive ſtate, the Energie of the Word in <hi>Principle,</hi> but <hi>not fixt;</hi> by the Fall, <hi>withdrawn;</hi> the Interpellation maketh <hi>way for its restoring</hi> in <hi>Decree,</hi> by the Compact; as That in the Decree maketh way for the <hi>Actuall reſtoring</hi> of it in the <hi>Perſon of the Mediator</hi> (by the Divine nature from the Word aſſuming our nature into Plaſtick union in the ſecond Tranſ<g ref="char:EOLhyphen"/>action) by and through whom it becometh <hi>actually conveyed,</hi> by <hi>Influx,</hi> unto <hi>particulars,</hi> as they receive <hi>the mystery,</hi> in the Co<g ref="char:EOLhyphen"/>venant Derivative; in the ſtrength of which they performing the conditions in conformity required <hi>(i.)</hi> adhering and vanqui<g ref="char:EOLhyphen"/>ſhing, the Covenant Derivative is finiſh't <hi>(i.) fixt</hi> in and on them; And ſo Grace <hi>perfected in the Inward man.</hi>
+               </p>
+               <p n="3">3. <hi>Glory,</hi> the Energie of the Spirit, in the Primitive ſtate in <hi>Deſigne onely;</hi> by the Fall <hi>come ſhort of;</hi> yet, by the Interpellation, in <hi>order to</hi> an Advance; and conſecutively <hi>restored in Decree,</hi> by the Compact in its firſt tranſaction, as <hi>actually conſequent</hi> (upon the work done) in the <hi>Mediator's aſſumption</hi> into Glory in the ſe<g ref="char:EOLhyphen"/>cond Tranſaction; And in conſequent <hi>merited</hi> for us, and <hi>applied</hi> unto us in the Covenant Derivative Finiſht, the <hi>Seal</hi> in the Ear<g ref="char:EOLhyphen"/>neſt from the <hi>Spirit;</hi> And ſo Glory <hi>Inchoate.</hi>
+               </p>
+               <p>
+                  <hi>Note firſt,</hi> That the <hi>Fall</hi> (as the fruſtrating of the firſt De<g ref="char:EOLhyphen"/>ſigne) was the <hi>Decay of all theſe</hi> in the Perſon of the <hi>firſt Adam;</hi> The <hi>Interpellation,</hi> as the <hi>Occaſionall ground,</hi> and the following <hi>Covenant,</hi> as the <hi>Fundamentall</hi> of the <hi>Reſtauration of them;</hi> were Subſiſtentiall Acts betwixt themſelves, and ſo forenſick to <hi>Our Natures:</hi> The <hi>actuall restoring them</hi> (in the ſecond Tranſaction) in the <hi>Perſon of the Mediator,</hi> was by Energies and Energeticall Operations, and ſo intrinſick to <hi>our nature,</hi> but terminated in <hi>his Perſon:</hi> The ſubſequent Operations in their ſeverall Advan<g ref="char:EOLhyphen"/>ces (as being Energeticall likewiſe) are intrinſick to <hi>our natures in our own perſons,</hi> as we encreaſing with the <hi>encreaſings of God,</hi> are made conformable to the <hi>Image of his Sonne.</hi>
+               </p>
+               <p>
+                  <hi>Note Secondly,</hi> That in all theſe ſeverall <hi>Perſonall Acts</hi> and <hi>Ener<g ref="char:EOLhyphen"/>geticall Operations</hi> (on this ſide the Fall) in their prequalifying Advances; The <hi>Succeeding</hi> are not attainable (ordinarily) untill the Acts and Operations immediately foregoing, have had their Deſigned Works on or in relation to our <hi>na<g ref="char:EOLhyphen"/>ture</hi>
+                  <pb n="17" facs="tcp:107652:9" rendition="simple:additions"/>and <hi>Perſons;</hi> becauſe the foregoing onely do prediſpoſe and render the ſubject (in and on whom They are wrought) <hi>capable</hi> of the <hi>exalted operations</hi> immediately following.</p>
+               <p>Thus the ſeverall foregoing Operations, gradually heightning and advancing our <hi>Nature</hi> and <hi>Perſons,</hi> untill <hi>Nature</hi> and <hi>Grace</hi> be <hi>conſummate</hi> in the <hi>Earneſt,</hi> we do by that Sealing <hi>reſt in Hope;</hi> then <hi>raiſed,</hi> according to that Hope, in this The <hi>First Reſurre<g ref="char:EOLhyphen"/>ction;</hi> we have from the Creator by his Energie (in a varied Operation) Nature, in the ſtate of Integrity <hi>constituted,</hi> now <hi>Reſtored; Grace</hi> from the Word in like manner, then in Principle, but <hi>not fixt;</hi> now in Principle, <hi>and fixt;</hi> Glory from the Spirit, then likewiſe in <hi>Deſigne onely,</hi> now <hi>ſecured:</hi> This being the <hi>ſeal<g ref="char:EOLhyphen"/>ing</hi> to the Day of <hi>Tranſlation,</hi> intercepted by the Fall.</p>
+               <p>Thirdly, In concurrence with this latter Note, this we muſt alſo farther ſuggeſt and add; that as the Prequalifying <hi>Operation</hi> is of the Nature of <hi>Diſpoſition</hi> unto the after Advance; ſo by the after <hi>exalted Operation,</hi> the former <hi>Prequalification</hi> becometh to be of the Nature of <hi>Habit.</hi>
+               </p>
+               <p>And being thus brought to the Point where we firſt ſet forth, and from whence we departed (the proper ſenſe of the Apo<g ref="char:EOLhyphen"/>ſtles word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which hath hitherto been rendred, the <hi>Reſtitution</hi> of all things, <hi>Acts</hi> 3.21.) with this farther advantage, that we are <hi>ſealed to Tranſlation;</hi> we have in our <hi>actuall Tranſla<g ref="char:EOLhyphen"/>tion</hi> (in conſequence of <hi>that Seale</hi>) Nature, by the Creator, then onely <hi>reſtored;</hi> now by a varied operation, <hi>Exalted:</hi> That Grace from the Word, then onely <hi>in principle and fixt,</hi> now <hi>Glo<g ref="char:EOLhyphen"/>rified:</hi> That Glory, from the Spirit, then onely <hi>ſecured,</hi> now <hi>con<g ref="char:EOLhyphen"/>ſummate.</hi>
+               </p>
+               <p>Then come in thoſe Notes,</p>
+               <p>Of which the firſt, (The Subſiſtencies <hi>themſelves</hi> now Comprehenſible, becauſe <hi>Face to Face, &amp;c.</hi>) occaſioneth us upon review of that Attribute of <hi>Incomprehenſibility</hi> (the Boundary of created natures) to give you in ſcale, when and upon what grounds in predication of God (thus di<g ref="char:EOLhyphen"/>verſly conſidered) in <hi>Eſsence, Subſistencies, Energies</hi> and <hi>Ope<g ref="char:EOLhyphen"/>rations,</hi> the <hi>Perſon of the Mediator</hi> with his <hi>Energies</hi> and <hi>Ope<g ref="char:EOLhyphen"/>rations,</hi>) it becometh <hi>moveable,</hi> when <hi>fixt</hi> (i.) when He is In<g ref="char:EOLhyphen"/>comprehenſible, when and how Comprehenſible unto us, <hi>viz.</hi> GOD in Eſſence, <hi>abſolute ſimply</hi> and in Himſelf, Incomprehen<g ref="char:EOLhyphen"/>ſible; The manner of the <hi>Inbeing</hi> and <hi>Emanation</hi> of the Subſi<g ref="char:EOLhyphen"/>ſtencies ſo alſo.</p>
+               <pb n="18" facs="tcp:107652:10"/>
+               <p>But then, becauſe the <hi>Eſsence,</hi> by the <hi>Emanation</hi> (as a nearer approach to the creature) manifeſteth it ſelf <hi>ſubſiſtentiated;</hi> And the <hi>Subſiſtencies</hi> render themſelves comprehenſible, medi<g ref="char:EOLhyphen"/>ately by their <hi>Energies,</hi> in their <hi>Operations</hi> immediate; there<g ref="char:EOLhyphen"/>fore when we ſhall have paſt all the Advances of the varied Operations, and ſo become <hi>made fit by Glorification</hi> for the re<g ref="char:EOLhyphen"/>ceiving of their Energies <hi>immediately:</hi> Nature (which <hi>Adam forfeited</hi>) fully <hi>redeemed</hi> and <hi>exalted;</hi> the Principle of Grace (from which He <hi>fell</hi>) by Reſtauration <hi>fixt</hi> and <hi>Glorified;</hi> the Principle of Glory (of which He came <hi>ſhort of</hi>) as of Auction, <hi>ſecured</hi> and <hi>Attained;</hi> and ſo we <hi>Conſummate:</hi> The <hi>Subſiſtencies</hi> themſelves muſt neceſſarily then become <hi>Comprehenſible.</hi>
+               </p>
+               <p>And from this ground, we have the ſenſe of the Apoſtles words, 1 <hi>Cor.</hi> 13.12. <hi>Face to Face, and Know as Known:</hi> which we have therefore made the cloſe of this Note. And that the Apoſtle's words (having found their proper ground) do na<g ref="char:EOLhyphen"/>turally ſpeak their ſenſe to be as we have given it, is moſt evident; becauſe <hi>Comprehenſibility</hi> being formally an <hi>Attribute</hi> upon <hi>Com<g ref="char:EOLhyphen"/>munion</hi> betwixt God and the Creature, <hi>Conſequentiall</hi> upon his Being; and not (as the other Attributes from God unto the Creature) <hi>Conſtitutive</hi> of his Being: It muſt therefore neceſſa<g ref="char:EOLhyphen"/>rily follow, that (his Being once reſtored, and God taking us into <hi>Immediate Communion</hi> of the Subſiſtencies, the End of the whole work) He then turn his Face unto us, and we have <hi>Immediate viſion</hi> (i.) Face to Face: The Communication under <hi>Moſes his Adminiſtrations,</hi> being but <hi>his back Parts</hi> of Types to Ours; And Ours, <hi>The Goſpel administrations,</hi> but mediate in the <hi>Face of Jeſus Chriſt,</hi> 2 Cor 4.6. <hi>(i.)</hi> by <hi>his Energies,</hi> as Mediator and Apo<g ref="char:EOLhyphen"/>ſtle; not Face to Face of the <hi>Subſiſtencies</hi> by their <hi>Energies.</hi>
+               </p>
+               <p>Though when we come thus Face to Face, and that the Sub<g ref="char:EOLhyphen"/>ſiſtencies become thus comprehenſible; <hi>Incomprehenſibility</hi> is even then and afterwards fixt to the <hi>Eſsence,</hi> as that <hi>Abyſse</hi> unfa<g ref="char:EOLhyphen"/>thomable, that ſtate of <hi>Godhead</hi> Incomprehenſible; accor<g ref="char:EOLhyphen"/>ding to the ſecond Note; <hi>Eſſence,</hi> as <hi>They in it</hi> (in the Inbeing) <hi>It in them</hi> (Subſiſtentiated and Emaned) <hi>now and for ever incom<g ref="char:EOLhyphen"/>prehenſible.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:107652:10" rendition="simple:additions"/>
+               <head>The Conſideration of <hi>Our Lord Jeſus Chriſt,</hi> as repreſented in this Scheme, relative to his diſtinct Offices and Works of <hi>Mediatorſhip</hi> and <hi>Apoſtleſhip.</hi>
+               </head>
+               <p>FRom theſe Inward Lines, and their <hi>junctures</hi> with them<g ref="char:EOLhyphen"/>ſelves and the reſt of the <hi>Body,</hi> as the <hi>Spirit and Informing part</hi> of the whole; That which next occurres, is the con<g ref="char:EOLhyphen"/>ſideration of our Lord <hi>Jeſus Chriſt,</hi> through whom onely we can bleſſe God, becauſe through <hi>Him</hi> onely God hath been thus good unto us; in whom all theſe Advances being <hi>first wrought, they</hi> through <hi>Him</hi> are (as we have ſaid) <hi>tranſmitted</hi> unto us.</p>
+               <p>Him therefore we repreſent,</p>
+               <p n="1">I. Standing upon that direct <hi>Energeticall Line</hi> from the Word, the <hi>Divine conſtitutive Principle,</hi> by which He aſſu<g ref="char:EOLhyphen"/>med our Nature; ſo the words on the Line ſpeak, <hi>The Eter<g ref="char:EOLhyphen"/>nall Spirit by which He offered up Himſelf</hi> (i. His Humane Nature) <hi>without ſpot,</hi> Heb. 9.14. for by the ſame, by which He <hi>offered</hi> up Himſelf, He muſt <hi>aſſume</hi> it.</p>
+               <p n="2">II. Plac't betwixt the ſeverall <hi>Energeticall Lines,</hi> relatively qualifying Him for each <hi>Office</hi> and <hi>Work,</hi> and conferring the reſpective appropriate <hi>Rewards</hi> on Him as <hi>Mediator</hi> for Man to God, in the Covenant of Grace Primitive in the <hi>ſecond Tranſ<g ref="char:EOLhyphen"/>action;</hi> and as <hi>Apoſtle</hi> from God to Man for promulgating the <hi>Covenant Derivative.</hi>
+               </p>
+               <p n="3">III. Standing alſo upon his <hi>Adminiſtrations</hi> Patriarchall, Mo<g ref="char:EOLhyphen"/>ſaicall, Propheticall (in which <hi>Revelation</hi> in <hi>Shadow, Redemption</hi> in <hi>Type</hi>) Interlegall as in <hi>John Baptiſt</hi>'s Miniſtry, <hi>preparing</hi> his way beforehis Face: And Evangelicall, in which <hi>Revelation,</hi> be<g ref="char:EOLhyphen"/>fore in <hi>ſhadow,</hi> is now in <hi>Substance; Redemption,</hi> before in <hi>Type,</hi> is now in <hi>Truth.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Conſideration of the <hi>Croſſe Lines,</hi> or Lines of <hi>Commenſuration.</hi>
+               </head>
+               <p>THe Croſſe Lines (of which in the third Note in the order and manner of Reading) are <hi>Commenſurations</hi> of the ſe<g ref="char:EOLhyphen"/>verall ſtates under thoſe Heads, where they terminate: we have only this to advert, that, as the words at either end of
+<pb n="20" facs="tcp:107652:11"/>them, ſeparately conſidered, are the <hi>Gages</hi> of that ſtate; ſo relatively conſidered, they are the <hi>Graines of difference</hi> which bal<g ref="char:EOLhyphen"/>lance them.</p>
+               <p>Thus firſt, though onely <hi>Confirmation,</hi> was the ſtate of the firſt Race, which adhered and ſtood, yet Confirmation of the ſecond Race could not have ballanc't them without <hi>Tranſlation.</hi>
+               </p>
+               <p>Secondly, The Gage of the ſtate of Nature in Integrity, be<g ref="char:EOLhyphen"/>ing (as on the Commenſuration Line) <hi>Ingenerate</hi> and unto Glo<g ref="char:EOLhyphen"/>ry but <hi>determinable,</hi> preſuppoſing, the firſt Deſigne of God, and That fruſtrated by the Lapſe; nevertheleſſe then (though ſup<g ref="char:EOLhyphen"/>poſing the Interpellation and Covenant for reſtoring of it) can<g ref="char:EOLhyphen"/>not That State of Nature be commenſurate, but by the ſtate of Nature in and after the Reſurrection; and yet This ſtate hath its graines of difference, <hi>Regenerate</hi> for <hi>Ingenerate,</hi> for <hi>Determinable Determinate.</hi>
+               </p>
+               <p>Thirdly, The State of Nature in the <hi>Fall</hi> (becauſe Death in the <hi>Root</hi>) commenſurate with the ſtate of Nature <hi>in Death;</hi> with which it cannot be ballanc't, untill what Here was in Root by the Fall, hath paſſed over all There by Death; the <hi>Merit here,</hi> the <hi>wages there.</hi>
+               </p>
+               <p>Fourthly and laſtly, That the Gentiles (under the <hi>Generall Ordinances,</hi> and their Inſtructing Paedagogie of the <hi>creature-Ad<g ref="char:EOLhyphen"/>miniſtrations,</hi> with the work of the Law written in their hearts) if working Righteouſneſſe (according to the purport of the words on the Commenſurating Line) are (as to the Common Intereſt of Eternall ſalvation) in equall ballance with the Jew and Chriſtian, ſaving that theſe latter had their <hi>Prerogatives</hi> (as the Graines of difference) the <hi>ſpeciall Adminiſirations;</hi> The One, the <hi>Adoption,</hi> the <hi>Glory,</hi> the <hi>Covenants;</hi> Rom. 9.4, 5. The Other, 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. the <hi>Kingdom of God</hi> and the <hi>Righteouſneſſe thereof,</hi> Matth. 6. as <hi>ſpeciall aſsistances,</hi> and more <hi>conducible meanes</hi> (though varied unto <hi>Each</hi> reſpectively) unto that one Common End of All, <hi>Sal. vation.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="21" facs="tcp:107652:11"/>
+               <head>The Import of thoſe Words, THE INTELLECTUAL WORLD.</head>
+               <p>LAſtly, that you ſee in Capitals <hi>theſe Words,</hi> THE INTEL<g ref="char:EOLhyphen"/>LECTUAL WORLD, taking place between GOD in Eſſence, the Subſiſtencies and their Energies in their firſt Operations (for conſtitution of the Firſt and Second Race) as ſituate above them; And ſeparating Thoſe Above <hi>(as the First part of the Scale)</hi> from the Subſiſtentiall Actings, and the ſame Energies and their Operations varied, <hi>for</hi> the Conſtitution of Jeſus Chriſt Mediator and Apoſtle, upon and after conſultation to reſtore <hi>(the ſecond Part of the Scale)</hi> together with thoſe Divine Principles in Jeſus Chriſt conſtituted, and <hi>for</hi> execution of that ſecond Conſultation to us ward <hi>by Him</hi> exerted; in whoſe Perſon, as the Reſtauration was firſt wrought, ſo <hi>by Him</hi> was it to be per<g ref="char:EOLhyphen"/>fected <hi>in us (the third Part of the Scale)</hi> Both theſe latter gradu<g ref="char:EOLhyphen"/>ally in ſituation, as in order of nature, beneath Them.</p>
+               <p>We do aſſign unto Our Spirit, <hi>The Intellectuall Nature,</hi> its pe<g ref="char:EOLhyphen"/>culiar <hi>Object</hi> (purely ſpirituall, abſtract from matter, and with<g ref="char:EOLhyphen"/>out the mediation of ſenſe) <hi>the Knowledge and Acknowledgement of God,</hi> as repreſented in this Scheme: For want of which, we do but groape after God, not knowingly contemplate or adore Him. For how can we <hi>aſcend</hi> unto Him, but by the ſame ſcale He <hi>deſcendeth</hi> unto us? And hence it followeth, that That great Work and laſt End, <hi>Our Regeneration,</hi> is leſſe evidently quickning, and the Means thereto, <hi>the Ordinances,</hi> are leſſe effi<g ref="char:EOLhyphen"/>cacious.</p>
+               <p>And we muſt farther ſay congruous with this Analogy, that the not underſtanding the firſt Part of the Scale, <hi>GOD in Eſſence, Subſistencies, Energies, Operations</hi> to the conſtitution of the crea<g ref="char:EOLhyphen"/>ture, hath been the Prime cauſe of the not underſtanding of the Second, <hi>viz. The Subſiſtentiall Actings in the Interpellation and Covenant of the first Tranſaction, the Energies and Operations in the Lines terminating on the Covenant in the ſecond tranſaction, as to his Mediatorſhip, and the Covenant Derivative as to his Apo<g ref="char:EOLhyphen"/>ſtolate:</hi> Theſe being but their <hi>Operations upon Condeſcenſion,</hi> which cannot have their Light but from a conſideration had of theſe their <hi>firſt Actings.</hi> And the confuſed or Indiſtinct underſtanding of this Second, hath been a like cauſe of not underſtanding the
+<pb n="22" facs="tcp:107652:12"/>Third, <hi>the Operations from the Mediator and Apoſtolate,</hi> by his re<g ref="char:EOLhyphen"/>ſpective Energeticall Operations to us ward and on us, <hi>the ſubject matter exhibited in the Covenant Derivative,</hi> and <hi>Covenant Deri<g ref="char:EOLhyphen"/>vative Finiſht;</hi> This being but the <hi>Deriving</hi> unto us, what was <hi>Treaſured</hi> up in Him.</p>
+               <p>And in as much as <hi>This Scale of the Intellectuall</hi> in its Juncture with the reſt, is indeed the <hi>Spirit quickning the whole,</hi> we may af<g ref="char:EOLhyphen"/>firm, that all Our Errors, as well in <hi>Judgement and Faith,</hi> as in <hi>Pra<g ref="char:EOLhyphen"/>ctiſe and Manners,</hi> in the other <hi>natur all Theologicall</hi> Heads and <hi>mo<g ref="char:EOLhyphen"/>rall Theologicall</hi> Grounds (in the Circle and Epicycle modelled) have ariſen principally from the not aright diſcerning of theſe.</p>
+               <p>And it would be no hard matter to evidence in particulars, where and how from ſome <hi>Miſpriſion</hi> or other (here in Root) <hi>of the Intellectuall;</hi> each and every of our miſguided Actings <hi>in Mo<g ref="char:EOLhyphen"/>rals, Oeconomicks, Politicks,</hi> as well of <hi>ſacred</hi> as <hi>civill</hi> cogniſance, have burgeoned and put forth.</p>
+            </div>
+            <div type="part">
+               <head>The Review of the whole.</head>
+               <p>ANd now let the whole be viewed, From the Abyſſe of <hi>Eſſence</hi> to the <hi>Operations,</hi> and the <hi>Perſon of Jeſus Christ,</hi> with his Energies and Operations <hi>on us:</hi> From the Look <hi>before the Creation,</hi> to the ſtate of <hi>Glorification:</hi> From the <hi>Judge<g ref="char:EOLhyphen"/>ment</hi> of the <hi>first Race,</hi> to the <hi>Judgement</hi> of the <hi>ſecond Race;</hi> From the ſtate of nature in its <hi>Primitive conſtitution,</hi> to the ſtate of na<g ref="char:EOLhyphen"/>ture in the <hi>firſt Reſurrection:</hi> From the ſtate of nature in <hi>the Fall</hi> of the <hi>firſt Man,</hi> to the ſtate of nature in <hi>Death,</hi> the condition of <hi>all men:</hi> From the Covenant of Reſtauration <hi>in Decree,</hi> to the ſame Covenant <hi>derived unto us,</hi> and <hi>Finiſht in us:</hi> From the <hi>Tri<g ref="char:EOLhyphen"/>nity Supream,</hi> to the <hi>Trinity of Condeſcenſions:</hi> From the <hi>Gentile</hi> in the <hi>Gener all Ordinances,</hi> to the <hi>Jew and Christian</hi> in all the <hi>ſpeciall Administrations.</hi> What ſhould I mention <hi>particulars?</hi> Look on the <hi>Generals,</hi> as the Circle in the Epicycle; and let the whole be conſidered in its Symmetry and proportion, as it hath <hi>wrought it ſelf</hi> in the Scheme, A Syſteme of Truths <hi>purely naturall,</hi> and ac<g ref="char:EOLhyphen"/>cording to the <hi>order of nature;</hi> without any <hi>Artifice</hi> at all in the framing; we having only <hi>followed</hi> (not <hi>forced</hi>) Them, whileſt they in their <hi>naturall Method</hi> (as things) formed and <hi>brought them<g ref="char:EOLhyphen"/>ſelves</hi> into Diagramme Mathematicall; that the <hi>Inward ſubject matters</hi> might more efficaciouſly (by demonſtrating the Seri<g ref="char:EOLhyphen"/>ptures
+<pb n="23" facs="tcp:107652:12"/>Deſigne) inform the Reaſon, when (fixt according to the order of nature in the <hi>outward Form and Figure</hi>) they ſhall be tranſmitted unto it by the convinced Sence; that ſo, <hi>Sence, Rea<g ref="char:EOLhyphen"/>ſon,</hi> and <hi>Revelation,</hi> may all conſpire to the ſtating of each and every particular Truth.</p>
+               <p>Thus ſee and conſider,</p>
+               <p>
+                  <hi>Eſſence</hi> in the <hi>Subſiſtencies</hi> Emanant by their <hi>Energies</hi> conſti<g ref="char:EOLhyphen"/>tuting a <hi>First Race;</hi> and upon the Apoſtacy of ſome of that Race creating <hi>a Second</hi> in a Condition <hi>Inconſummate;</hi> Upon <hi>their Lapſe,</hi> (the Lapſe of the ſecond Race, in the Protoplaſt) the <hi>first and ſecond Subſistencies</hi> (becauſe They onely had their Prin<g ref="char:EOLhyphen"/>ciples actually in the conſtitution of the firſt <hi>Adam</hi>) in and by their <hi>Subſistentiall Actings,</hi> laying their Deſigne for the <hi>Reſtauration</hi> of this ſecond Race: This <hi>Decreed, Executed</hi> in the ſecond <hi>Adam, re<g ref="char:EOLhyphen"/>vealed</hi> by Him, and <hi>accompliſhed</hi> in the <hi>earneſt,</hi> then in the <hi>Full</hi> in the creature: This creature, <hi>thus reſtored</hi> by the Regeneration, and <hi>conſummately Glorified</hi> (All by the varied <hi>Operations</hi> of the <hi>Subſiſtencies</hi> by their <hi>Energies</hi>) ſhew in Figure, the <hi>Deſignes,</hi> the <hi>Degrees</hi> and <hi>Steps</hi> of this creatures Conſtitution, Reſtoration, Advance, and Exaltation.</p>
+               <p>Next ſee and conſider,</p>
+               <p>Tophet in its ſituation, A Work not <hi>decreed,</hi> but <hi>emergent</hi> up<g ref="char:EOLhyphen"/>on <hi>Their</hi> Apoſtacy, and <hi>extraneous</hi> to the Deſigne of God in the Creation of that firſt Race; as The <hi>Sentence</hi> from him, was <hi>aliene.</hi> They <hi>firſt</hi> become Devils and Evil Angels in conſequent of their <hi>Fall;</hi> Reſerved in chains of darkneſſe in conſequent of their <hi>Sentence,</hi> unto the Judgement of the great Day for the full of their <hi>puniſhment,</hi> And then become <hi>Tempters</hi> in that ſtate to the <hi>firſt man,</hi> and ever afterwards in <hi>Enmity</hi> with <hi>the ſeed:</hi> Thus in that <hi>Head</hi> and <hi>Labels.</hi>
+               </p>
+               <p>And the Laſt Judgement in proportioned ſituation oppoſite, becauſe an <hi>Abdication</hi> of that <hi>firſt Race,</hi> and at once a <hi>Sentence and Abdication</hi> of thoſe of the <hi>ſecond Race,</hi> workers of Iniquity, then <hi>finally Reprobated,</hi> imported by the Labell, <hi>Go ye Curſed into Ever<g ref="char:EOLhyphen"/>lasting Fire prepared for the Devil and his Angels.</hi>
+               </p>
+               <p>Concerning which Laſt Judgement, I ſhall at preſent onely ſuggeſt this one thing; that It hath and muſt keep the <hi>ſeaventh place</hi> in the cloſe of the Heads of the <hi>Ordinances,</hi> as the Firſt Re<g ref="char:EOLhyphen"/>ſurrection is the <hi>ſeaventh</hi> to thoſe of the <hi>Mediatorſhip;</hi> becauſe It dependeth on <hi>thoſe Ordinances</hi> which the whole Body of the
+<pb n="24" facs="tcp:107652:13"/>Head importeth; Giving us farther alſo in the cloſe, a Diſtinction of the <hi>Kingdom of Apoſtolate,</hi> which he is to <hi>reſigne</hi> after this, and to lead us into that merited <hi>Kingdom of the Father,</hi> prepared for us before the Foundation of the World <hi>ſimply conſidered,</hi> expreſt by that part of the Labell, <hi>Come ye bleſſed of my Father,</hi> &amp;c. <hi>Matth.</hi> 25.34. when thoſe who claime It by Covenant, acquitted at the <hi>Laſt Judgement,</hi> are gathered into One with thoſe of the firſt Race confirmed.</p>
+               <p>Then ſee and conſider,</p>
+               <p>The Head of the Fall, upon the ſame ground not decreed of God, and ſo the Root of Death not made by God, <hi>He made not Death,</hi> ſaith the Wiſe man, <hi>Wiſd.</hi> 1.13. but man; <hi>Adam giving him<g ref="char:EOLhyphen"/>ſelf</hi> by ſinne into the power of Satan; <hi>Death came in by Sinne, Rom.</hi> 5.12. And hence we ſee how Satan came to have the <hi>Power of Death,</hi> Heb. 1.14. (to wit) by <hi>Adam</hi>'s <hi>admitting</hi> of the tempta<g ref="char:EOLhyphen"/>tion, which was <hi>Death in the Root:</hi> It was indeed a <hi>Breach,</hi> by which man was going forth to the ſtate of thoſe in the Labell re<g ref="char:EOLhyphen"/>ſerved in Chaines, but by the Interpellation <hi>made up,</hi> that all might be ſaved by the Covenant, as to the <hi>Inward man,</hi> if they perform the Condition, though committed to Satan (by the Sen<g ref="char:EOLhyphen"/>tence, <hi>to Death thou ſhalt return,</hi>) for the deſtruction of the <hi>Fleſh,</hi> the <hi>Outwardman.</hi>
+               </p>
+               <p>And the Head of the ſtate of <hi>Nature in Death,</hi> the Execution of that Sentence (in oppoſite ſituation and like <hi>proportioned Fi<g ref="char:EOLhyphen"/>gure</hi>) is a Going out of the <hi>Land of the Living;</hi> but made up alſo by the <hi>firſt Reſurrection;</hi> as That of the Fall by the <hi>Interpellation.</hi>
+               </p>
+               <p>And the ſtate of <hi>Nature in the Fall,</hi> with this ſtate of Nature in Death (being the terminating puncts of the <hi>Epicycle</hi>) ſpeak<g ref="char:EOLhyphen"/>eth, that the matter contained in that Epicycle, <hi>viz. The Ordinan<g ref="char:EOLhyphen"/>ces principled by the unction,</hi> (relating unto the <hi>Reparation of that Darkneſse</hi> contracted in the Fall) are (though in their ſeverall diverſifications) to <hi>continue untill now the State of Nature in Death,</hi> as the <hi>Day</hi> of Grace vouchſafed by God to mortals in and by the Ordinances, the lifting up the <hi>Light of his countenance</hi> up<g ref="char:EOLhyphen"/>on us.</p>
+               <p>In like manner, as the Interpellation and Covenant in the Circle, did primarily relate unto that Death into which we were ſunk, but to be delivered from (in the firſt Reſurrection) by Him that by the Union of Natures brought Immortality to light (which he publiſhed in the Goſpel) and in whom, whilſt
+<pb n="25" facs="tcp:107652:13"/>
+                  <hi>Our Life is hid,</hi> and we by the <hi>Spirit ſealed, our fleſh</hi> may in this, even the ſtate of Death, <hi>reſt in Hope.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Notes under the Diagram.</head>
+               <p>THe two Notes, the One concerning <hi>Decrees Eternall (as they ſpeake) of Election and Reprobation,</hi> the Other of <hi>Attri<g ref="char:EOLhyphen"/>butes,</hi> are next to be conſidered; which becauſe we fore<g ref="char:EOLhyphen"/>ſee may raiſe ſome prejudice, being here as Notes in barre, and in the foot of our Diagramme; which in other Syſtemes and Bodies of Divinity have been preſuppoſed for Truths, and laid as <hi>Praecognita</hi> and <hi>Primo-creaita</hi> to be foreknown and firſt aſſented unto.</p>
+               <p>We are for the juſtifying of our method in theſe and other particulars coincident with them (<hi>viz. God in unity, Trinity,</hi> by <hi>Generation and Proceſsion, Decrees, Attributes</hi> and <hi>Scripture</hi>) by all others laid together as <hi>Prolegomena</hi> and certain <hi>Premiſſa</hi> (as we have ſaid) to be firſt believed, neceſſitated to deſire the Ingenu<g ref="char:EOLhyphen"/>ous and unprejudiced Reader to conſider, that this having been a work purely of diſquiſition, we could not without violence to the nature of <hi>Primitive Truths</hi> (which we hold ſacred) or diſtort<g ref="char:EOLhyphen"/>ing their <hi>Order</hi> (which were piacular) repreſent them otherwiſe or in other order, than they gave themſelves.</p>
+               <p>Wherefore we firſt conſider God in Unity, not as a <hi>Poſtulatum</hi> to be premiſed, but as the <hi>firſt Truth:</hi> Trinity hath its place as a Conſequentiall inferred as to us from their works <hi>ad extra,</hi> The Creation and Reſtauration, <hi>Generation</hi> referred to the Per<g ref="char:EOLhyphen"/>ſon of the Mediator; <hi>Proceſsion</hi> to the Apoſtolicall Principle and Work.</p>
+               <p>And for <hi>Decrees of Election and Reprobation</hi> (our firſt Note) in their notion (of Eternall) waved; we give in ſupplement, the <hi>Compact</hi> betwixt the Creator and Word, and the <hi>Decree</hi> there<g ref="char:EOLhyphen"/>upon in the Covenant of Grace Primitive in the firſt Tranſ<g ref="char:EOLhyphen"/>action; And becauſe <hi>there</hi> limited to <hi>his Perſon,</hi> when He ſhould be <hi>Incarnate,</hi> and become a Mediator, and to <hi>our nature,</hi> but as He <hi>aſſumed it,</hi> we referre the more <hi>explicit</hi> conſideration of this De<g ref="char:EOLhyphen"/>cree of Election and Reprobation as it may concern, and lay hold on us in <hi>particulars,</hi> unto the Covenant <hi>(with us)</hi> of Grace Derivative, and Covenant of Grace Derivative Finiſht, on which They muſt neceſſarily depend.</p>
+               <pb n="26" facs="tcp:107652:14" rendition="simple:additions"/>
+               <p>For the <hi>Attributes</hi> (the ſecond Note) that they ſhould be treated of onely, where they emerge, is ſo congruous both with the <hi>Word</hi> and <hi>Thing,</hi> that we ſuppoſe the ſpeaking it onely, is ſuffi<g ref="char:EOLhyphen"/>cient to evince it.</p>
+               <p>Yet our Diagramme therefore repreſenteth in view onely and <hi>overtly,</hi> the <hi>Attributes Eſſentiall,</hi> as the onely and all that are appropriate to the <hi>Eſſence,</hi> viz. <hi>Infinite</hi> (the genus to Eternity, Immenſity, with ſuch like,) <hi>Immortall</hi> (i.) <hi>ſelf-living;</hi> and (with reference to the <hi>Creature</hi>) All Incomprehenſible.</p>
+               <p>Then the <hi>Attributes Subſiſtentiall</hi> from their <hi>Inbeing,</hi> Coeſſen<g ref="char:EOLhyphen"/>tiall; and from their <hi>Emanation</hi> (as Subſiſtencies Emanant and Emaned) Coequall and Coeternall: which implyed, that all the other Attributes (<hi>viz. Goodneſſe, Omnipotency, Omnipreſency, Wiſedom, Juſtice,</hi> which we (according to the nature of the thing) call <hi>Operating Attributes,</hi> that is in their <hi>Perſonall</hi> or <hi>Ener<g ref="char:EOLhyphen"/>geticall</hi> Actings <hi>exerted,</hi> either in the <hi>Creation</hi> or <hi>Adminiſtration</hi> of the creature, muſt be deliteſcent and <hi>covert</hi> unto us, untill they diſcloſe themſelves in the reſpective Heads, where they are <hi>ex<g ref="char:EOLhyphen"/>erted.</hi>
+               </p>
+               <p>Nor could we be ſatisfied in our ſelves with the impoſing of <hi>Scripture</hi> with the reſt of their <hi>Prolegomena;</hi> ſeeing we could not ſtate it demonſtratively, untill we had <hi>ſummed</hi> up the <hi>Emergent Revelations,</hi> of which it is a <hi>Sacred Record;</hi> thoſe <hi>Revelations</hi> from God making good by parts theſe <hi>Principles;</hi> and that <hi>Body of Scripture</hi> from Men, divinely inſpired and aſſiſted, making good unto us thoſe <hi>Revelations.</hi>
+               </p>
+               <p>But it will be ſufficient at preſent to ſay, that theſe thus diſtri<g ref="char:EOLhyphen"/>buted (according unto that order which they have in nature) is a ſufficient warrant for our thus diſpoſing of them in <hi>Dia<g ref="char:EOLhyphen"/>gramme;</hi> which we ſhall more fully aſſert, when (by the Conti<g ref="char:EOLhyphen"/>nuance of that grace that is given us of God) we ſhall, on theſe Foundations, raiſe the ſuperſtructure, and finiſh the Building in our larger work.</p>
+               <p>The Uſe of all is,</p>
+               <p>Firſt, As the generall of the Deſigne, by this <hi>Series of things</hi> (which are the firſt Truths) to give in Diagramme, an Entire Summe or Body of <hi>Divinity Reall,</hi> that is, a Series of all <hi>Primitive Truths Theologicall,</hi> neither <hi>Defective,</hi> nor <hi>Redundant,</hi> evidenced by their <hi>Concatenations.</hi>
+               </p>
+               <p>And then this Diagramme by its exact <hi>Concatenations</hi> juſtifying it ſelf, as before;</p>
+               <pb n="27" facs="tcp:107652:14"/>
+               <p>We do ſecondly propoſe it (as the <hi>Fundamentals</hi> in <hi>Modell</hi>) to be the ground of demonſtration unto all <hi>Dogmaticall</hi> and <hi>Pra<g ref="char:EOLhyphen"/>cticall Truths</hi> (according to the Title) of which we ſhall ſhew you a clearer uſe in our Eſſay Mathematicall, which is to be part of the Prodromus.</p>
+               <p>Nor can it be juſt cauſe of offence, either as reſtreining the li<g ref="char:EOLhyphen"/>berty of ſome, or as giving check to the magiſteriall determi<g ref="char:EOLhyphen"/>nations of others; ſeeing it is of <hi>univerſall conſent,</hi> that All <hi>dedu<g ref="char:EOLhyphen"/>ced Theoremes</hi> and conſequentiall inferences cannot otherwiſe be evidenced for truths in what ſcience ſoever, but by their propor<g ref="char:EOLhyphen"/>tion with their reſpective <hi>Fundamentals.</hi>
+               </p>
+               <p>When we ſay <hi>Fundamentals</hi> in the Plurall, we comprehend the firſt Angular or corner-ſtone, Truth, <hi>the knowledge of God, and ac<g ref="char:EOLhyphen"/>knowledgement of Him,</hi> as He hath manifeſted himſelf, and of all the reſt in a connected dependance with and on it; Each and e<g ref="char:EOLhyphen"/>very one conſtituted in it ſelf, and having its reſpective <hi>Contigna<g ref="char:EOLhyphen"/>tion</hi> with the precedent and conſequent from the <hi>Look before the Creation,</hi> unto the <hi>State of Glorification,</hi> neither in a Heape of Confuſion, a diſcretive Independencie of each other, or the An<g ref="char:EOLhyphen"/>gular, nor in a diſlocation of Diſorder.</p>
+               <p>And then we ſay and affirm, That theſe, thus conſidered and diſpoſed, are ſo the genuine and naturall Fundamentals unto all <hi>Dogmaticall</hi> and <hi>Practicall Truths</hi> in matters Sacred and Divine, that what can be demonſtrated by theſe (and that onely) ought to be believed and practiſed; that is, our <hi>Grounds</hi> ſound, our <hi>De<g ref="char:EOLhyphen"/>ductions</hi> certain, we may then, and <hi>then</hi> onely ſecurely reſt in them.</p>
+               <p>Nor let it ſeem ſtrange, if we alſo ſay, that all our <hi>Confeſsions of Faith</hi> (as by the Analogie) muſt neceſſarily be <hi>formed</hi> according to It: and all Our <hi>Liturgies of Worſhip</hi> muſt in congruity be <hi>con<g ref="char:EOLhyphen"/>formed</hi> unto It: of which we ſhall (with ſubmiſſion) give you our <hi>Practicall Eſſay,</hi> ere we cloſe our larger work.</p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:107652:15" rendition="simple:additions"/>
+               <head>The Explanation of the Termes.</head>
+               <p>HAving now given by the <hi>order</hi> and <hi>manner</hi> of Reading (thus enlightned) the <hi>Concatenation</hi> of the Heads or <hi>Primitive</hi> Truths <hi>Supernaturall</hi> and <hi>Naturall;</hi> and the grounds <hi>immediate</hi> in their <hi>Contignations,</hi> which give in Syſteme their <hi>Juncture</hi> with each other; juſtified the <hi>Figure</hi> of the Dia<g ref="char:EOLhyphen"/>gramme; and ſhewed the <hi>uſe</hi> of the <hi>whole;</hi> we have brought the matters and things themſelves ſo near to the ſenſes both Inward and Outward in all their ſeverall aſpects, that the words in which we repreſent them, will have the leſſe difficulty.</p>
+               <p>And foraſmuch as the method is wholly new, we preſume that the Intelligent Reader will not be offended at the liberty we have taken in Wording ſuch Principles, as have diſcovered themſelves (not heretofore taken notice of) in ſuch termes (though new alſo) as may moſt properly expreſſe them; nor be too ſevere towards us for varying the words, when we have been conſtreined thereto, that we might bring them to the due proportion of Analogie, to rectifie the things themſelves, from what they have been current in theſe latter Ages.</p>
+               <p>Yet for thoſe, whoſe weaker apprehenſions may require an Interpreter (becauſe in this alſo we deſire to deſcend to the ca<g ref="char:EOLhyphen"/>pacity of the meaneſt) we have thought it our duty to give an explication of them, as familiar, as the matters will poſſibly bear.</p>
+               <p>By GOD in <hi>Eſſence,</hi> we intend that ſtate (The <hi>Abyſſe</hi> unfa<g ref="char:EOLhyphen"/>thomable) the Infinite, Incomprehenſible Godhead; wherein before his Outgoings manifeſted, we can onely ſay, that GOD is, or that there is a GOD, One GOD.</p>
+               <p>
+                  <hi>Subſistencies,</hi> The Outgoings of that Eſſence, by their Emana<g ref="char:EOLhyphen"/>tion diſcovering themſelves Three, This the true interpretation of the Greek word <hi>Hypostaſis,</hi> which the Latines endeavour to expreſſe by Perſons, and which we alſo uſe <hi>(though ſeldom)</hi> as be<g ref="char:EOLhyphen"/>ing more familiar and better known to ſignifie the ſame thing.</p>
+               <p>
+                  <hi>Inbeing,</hi> The ſtate of the Subſiſtencies in the Eſſence.</p>
+               <p>
+                  <hi>Emanation,</hi> The Outflowings from it.</p>
+               <p>
+                  <hi>Incomprehenſible,</hi> Is of which we can frame no Idaea in our mindes.</p>
+               <p>
+                  <hi>Ineffable,</hi> In conſequence muſt be unwordable, for which there can be no expreſſion.</p>
+               <pb n="29" facs="tcp:107652:15" rendition="simple:additions"/>
+               <p>
+                  <hi>Emergeth,</hi> (i.) Putteth up the head, appeareth or ſheweth it ſelf.</p>
+               <p>
+                  <hi>Energies,</hi> Are their Efficacies, or Working-Powers, called in Scripture, ſpirit.</p>
+               <p>
+                  <hi>Energeticall Operations,</hi> are the Effects of thoſe Energies in the ſubject.</p>
+               <p>By the <hi>Firſt Race</hi> of Intellectuals, we intend <hi>Spirits <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>bodied</hi> (i. ſimple Created Eſſences) which we from their Office and Miniſtrie <hi>not till afterward</hi> call Angels.</p>
+               <p>By the <hi>Second Race</hi> of Intellectuals, we intend Mankinde <hi>(i) Spirits Imbodied.</hi>
+               </p>
+               <p>By <hi>Animate world,</hi> we intend a created Dead matter, quick<g ref="char:EOLhyphen"/>ned by a Forme from without it ſelf, which in this was the Ener<g ref="char:EOLhyphen"/>gie of the Creator, <hi>the Spirit of God moving upon the waters,</hi> Gen. 1.2.</p>
+               <p>
+                  <hi>Innate Law of Impulſe:</hi> By <hi>Innate</hi> we intend, that which was in their <hi>constitution</hi> or making up; And becauſe in that their conſtitu<g ref="char:EOLhyphen"/>tion, the Superior, the Intellectual nature, did qualifie the inferior, the Animal, with Rationality a Forme beſides its own; I do there<g ref="char:EOLhyphen"/>fore call that from the Superior to it <hi>a Law of Impulſe,</hi> and the ſame in the Inferior, <hi>a Law of Instinct.</hi>
+               </p>
+               <p>The <hi>Covenant of Nature properly ſo called</hi> (i.) <hi>of Impreſſe upon Ad<g ref="char:EOLhyphen"/>heſion,</hi> whereby is intended, that whilſt he ſhould <hi>adhere</hi> and keep himſelf cloſe unto God, the Subſiſtencies would then continue their Impreſſe upon him, and Concurſe with him.</p>
+               <p>
+                  <hi>Appendixes Preparatory, Sacrament, Sabbath</hi> (i.) theſe were pre<g ref="char:EOLhyphen"/>pared, <hi>and but prepared;</hi> untill he Adhering and Vanquiſhing, not to be actually <hi>Appended</hi> or exhibited.</p>
+               <p>
+                  <hi>Inhibition</hi> (i.) by that <hi>Negative Precept,</hi> enjoyned not to eat. <hi>Probationall</hi> (i.) by which God his Lord would know and make Proof whether he would <hi>Adhere</hi> and <hi>Obey.</hi>
+               </p>
+               <p>
+                  <hi>Threat, an Antedated Sentence</hi> (i.) that which was in <hi>Threat,</hi> was as certainly, upon his <hi>Diſobedience,</hi> to be his <hi>Sentence;</hi> as it was now a <hi>Threat.</hi>
+               </p>
+               <p>
+                  <hi>Interpellation,</hi> Is expounded by the words following, <hi>Putting himſelf in the Gappe,</hi> in Engliſh it is neareſt to a <hi>Reſcue,</hi> but here Legitimate from a Ground; becauſe the <hi>Interpellator</hi> the Word, was in a degree concerned in the conſtitution of the <hi>Delinquent,</hi> and Himſelf <hi>coequall</hi> with the <hi>Incenſed,</hi> the Creator.</p>
+               <p>
+                  <hi>Superſeding</hi> (i.) Diſpenſing with the preſent Execution of his
+<pb n="30" facs="tcp:107652:16" rendition="simple:additions"/>own <hi>Juſtice;</hi> A Law terme in uſe amongſt us.</p>
+               <p>So alſo is <hi>Reprieve,</hi> known unto moſt in criminal cauſes.</p>
+               <p>The <hi>Covenant of Grace Primitive in the First Tranſaction</hi> (i.) the <hi>Mutuall Agreement</hi> and Capitulation tranſacted betwixt the Creator Ordaining, and Word undertaking, in reference to Re<g ref="char:EOLhyphen"/>demption and Reſtauration.</p>
+               <p>The <hi>Trinity Supream,</hi> is a conſideration of the Subſiſtencies, as They emaned and acted before their Condeſcentions, either in order unto or for the actuall Reſtauration.</p>
+               <p>The <hi>Covenant of Grace Primitive in the Second Tranſaction,</hi> their <hi>mutuall Performance</hi> (of what was <hi>mutually undertaken in the Firſt Tranſaction</hi>) in the Perſon of Jeſus.</p>
+               <p>The <hi>Covenant of Grace Derivative;</hi> the Publication of that Grace wrought for us in <hi>his Perſon,</hi> and the offer of termes of Reconciliation thereupon,</p>
+               <p>
+                  <hi>Influx</hi> (i.) A Spirituall Inflowing into <hi>us</hi> by operation from Him the Mediator, oppoſed unto That which was by union of Natures, as Energie radically in <hi>Himſelf.</hi>
+               </p>
+               <p>
+                  <hi>Trinity of Condeſceutions for Adminiſtrations and Redemption,</hi> are the reſpective Energies of the Trinity Supream, in their condeſ<g ref="char:EOLhyphen"/>centions exerted or put forth for the accompliſhing of the ſe<g ref="char:EOLhyphen"/>cond Deſigne, both as to <hi>Redemption</hi> and to <hi>Revelation.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Explication of the Greek Words.</head>
+               <p>ΠΕΡΙΠΟΙΗΣΙΣ, (i.) A <hi>Making</hi> by Gyre, Compaſſe, or circumfe<g ref="char:EOLhyphen"/>rence; firſt in <hi>Chriſt</hi> the <hi>new Creature;</hi> and then <hi>Particulars in the ſtate of Lapſe</hi> from Him as Mediator by union of Na<g ref="char:EOLhyphen"/>tures, the Principle of this Houſe.</p>
+               <p>ΠΒΡΙΟΥΣΙΟΣ, A <hi>People pecullar,</hi> (i.) thoſe whom God hath dignified with ſpeciall Adminiſtrations; and ſo a People appro<g ref="char:EOLhyphen"/>priated by <hi>ſanctification</hi> of the Holy Ghoſt, the Principle of this Houſe.</p>
+               <p>ΑΠΟΚΑΤΑΣΤΑΣΙΣ, An Aſtronomicall terme, <hi>The Bringing</hi> of Nature about (by Grace) to the ſame Point, whence it firſt ſet forth, and from whence it declined, and fell.</p>
+               <p>ΑΝΑΚΕΦ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ΛΑΙΩΣΙΣ, The Gathering together again under One Head, <hi>the Word;</hi> Now (by Incarnation) <hi>Mediator</hi> of this ſe<g ref="char:EOLhyphen"/>cond Work, for compaſſing of the <hi>firſt Deſigne<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:107652:16"/>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:107652:17"/>
+            <head>My Deſires to the Reader are,</head>
+            <p>FIrſt, That thoſe who deſire the underſtanding of this De<g ref="char:EOLhyphen"/>ſigne, would as the <hi>Alphabet</hi> or firſt <hi>Elements,</hi> get by Heart the Capitall Heads; as, <hi>THE LOOK Before the Creation, THE CREATION, THE INHIBITION,</hi> &amp;c. pun<g ref="char:EOLhyphen"/>ctually according to the Direction in the order and manner of Reading.</p>
+            <p>Secondly, That, That being done, they would in like man<g ref="char:EOLhyphen"/>ner inform themſelves of the <hi>Subject Matters</hi> under every Head, and take notice of their <hi>concatenate dependenctes.</hi>
+            </p>
+            <p>Thirdly, That Theſe things being done, they would then (and not before) having the Scheme before them and in their eye, peruſe theſe Sheets as the Key unto It. Whereto if they bring their Heads as intent, and their Hearts as ſincere, as I have been (I take God to witneſſe) in compoſing the whole. I ſhall not doubt of that <hi>Union</hi> (ſo much talkt of) in <hi>Truth</hi> and <hi>Peace;</hi> which, as it is the Prayer, ſo it is the endeavour of him that is</p>
+            <p>An obedient Sonne of the Church <hi>truly Christian,</hi> Proteſting againſt all Popiſh Errors, or what<g ref="char:EOLhyphen"/>ſoever is contrary to ſound Doctrine:</p>
+            <closer>
+               <signed>Nicholas Gibbon.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Pag. 14. line 10. for <hi>Reſurrection,</hi> read <hi>Dead.</hi> pag. 24. line 24. for <hi>Figurea,</hi> read <hi>Figure</hi> wih a Parentheſis. pag. 25. line 14. reade <hi>Scripture</hi> as in a Parentheſis; pag. 26. line 5. for Yet read That. Which is deſired the Reader would correct with his Pen before he peruſe them.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
